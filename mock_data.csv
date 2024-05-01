@@ -1,0 +1,1001 @@
+type_equipement,age,duree_vie_prevue,etat,derniere_maintenance,frequence_maintenance,nb_pannes,temps_fonctionnement_total,temps_moyen_reparation,temps_arret_panne,class_equipement
+Semoir,8,14,besoin de réparation,2024-02-18 17:50:08.836647,56,32,29680,16,35,B
+Tracteur,3,12,bon état,2024-04-24 17:50:08.836666,49,10,11130,12,32,B
+Charrue,7,15,bon état,2024-04-29 17:50:08.836672,19,20,25970,3,25,B
+Semoir,10,11,besoin de réparation,2024-03-01 17:50:08.836677,44,32,37100,15,2,C
+Charrue,12,13,bon état,2024-04-24 17:50:08.836682,30,34,44520,7,16,C
+Remorque agricole,9,12,bon état,2024-04-17 17:50:08.836686,49,22,33390,11,13,C
+Tondeuse agricole,13,16,besoin de réparation,2024-01-31 17:50:08.836691,51,26,48230,13,46,C
+Tondeuse agricole,3,13,besoin de maintenance,2024-03-17 17:50:08.836695,39,8,11130,7,22,B
+Charrue,7,12,besoin de réparation,2024-02-05 17:50:08.836699,54,20,25970,17,47,B
+Charrue,13,10,bon état,2024-04-27 17:50:08.836703,18,52,48230,13,7,C
+Tracteur,4,10,bon état,2024-04-16 17:50:08.836707,19,16,14840,11,31,B
+Charrue,4,16,besoin de maintenance,2024-03-19 17:50:08.836711,54,16,14840,6,23,B
+Tracteur,9,11,besoin de réparation,2024-01-31 17:50:08.836715,78,29,33390,16,40,C
+Semoir,3,13,bon état,2024-04-28 17:50:08.836719,40,11,11130,6,35,B
+Tondeuse agricole,3,13,bon état,2024-04-28 17:50:08.836722,17,9,11130,4,34,A
+Tondeuse agricole,8,16,besoin de maintenance,2024-03-31 17:50:08.836726,2,32,29680,13,13,B
+Charrue,13,14,bon état,2024-04-21 17:50:08.836730,6,37,48230,6,25,C
+Moissonneuse,8,15,besoin de maintenance,2024-03-28 17:50:08.836734,31,23,29680,10,40,B
+Moissonneuse,12,12,besoin de réparation,2024-02-12 17:50:08.836738,47,34,44520,2,36,C
+Semoir,6,13,besoin de maintenance,2024-03-24 17:50:08.836742,62,12,22260,6,33,B
+Semoir,9,11,bon état,2024-04-24 17:50:08.836746,53,36,33390,13,42,C
+Tracteur,4,10,besoin de maintenance,2024-03-23 17:50:08.836750,47,10,14840,17,4,B
+Tracteur,8,12,besoin de réparation,2024-02-10 17:50:08.836754,87,20,29680,4,20,B
+Charrue,7,16,besoin de réparation,2024-02-17 17:50:08.836757,41,23,25970,16,19,B
+Tracteur,5,15,bon état,2024-04-26 17:50:08.836761,66,20,18550,4,15,B
+Remorque agricole,13,15,besoin de maintenance,2024-03-17 17:50:08.836765,13,42,48230,12,17,C
+Charrue,10,14,besoin de maintenance,2024-03-07 17:50:08.836769,32,36,37100,16,6,B
+Remorque agricole,8,13,bon état,2024-04-20 17:50:08.836775,87,32,29680,12,30,B
+Charrue,12,13,besoin de réparation,2024-02-04 17:50:08.836779,8,34,44520,13,14,C
+Moissonneuse,5,14,besoin de réparation,2024-04-12 17:50:08.836782,28,18,18550,12,27,B
+Moissonneuse,10,11,besoin de maintenance,2024-03-25 17:50:08.836786,60,32,37100,12,24,C
+Semoir,8,15,besoin de réparation,2024-01-31 17:50:08.836790,37,29,29680,5,30,B
+Tondeuse agricole,4,15,besoin de maintenance,2024-03-31 17:50:08.836794,59,13,14840,2,37,B
+Remorque agricole,5,16,besoin de maintenance,2024-03-13 17:50:08.836798,66,10,18550,4,13,B
+Tondeuse agricole,3,13,besoin de maintenance,2024-03-23 17:50:08.836801,77,10,11130,4,45,B
+Remorque agricole,7,11,besoin de maintenance,2024-03-27 17:50:08.836805,15,17,25970,11,34,B
+Tracteur,5,11,besoin de réparation,2024-04-01 17:50:08.836809,89,18,18550,4,11,B
+Remorque agricole,13,13,besoin de maintenance,2024-03-24 17:50:08.836813,65,47,48230,9,6,C
+Charrue,7,15,besoin de réparation,2024-02-27 17:50:08.836817,43,23,25970,7,14,B
+Tondeuse agricole,9,15,besoin de réparation,2024-02-16 17:50:08.836821,69,26,33390,11,8,B
+Charrue,13,14,bon état,2024-04-28 17:50:08.836825,56,42,48230,13,12,C
+Charrue,12,16,besoin de réparation,2024-02-03 17:50:08.836829,57,39,44520,8,28,C
+Charrue,5,10,besoin de réparation,2024-04-14 17:50:08.836833,69,16,18550,17,2,B
+Semoir,10,14,bon état,2024-04-24 17:50:08.836837,86,36,37100,8,8,B
+Moissonneuse,13,16,bon état,2024-04-21 17:50:08.836841,55,52,48230,9,7,C
+Tondeuse agricole,4,13,bon état,2024-04-16 17:50:08.836845,39,8,14840,16,26,A
+Charrue,5,10,besoin de maintenance,2024-03-16 17:50:08.836849,46,16,18550,11,9,B
+Tondeuse agricole,9,13,besoin de maintenance,2024-03-06 17:50:08.836852,38,33,33390,6,23,B
+Remorque agricole,4,11,besoin de réparation,2024-04-13 17:50:08.836856,14,15,14840,17,20,B
+Tondeuse agricole,3,11,besoin de maintenance,2024-03-30 17:50:08.836860,89,10,11130,4,9,B
+Semoir,12,15,besoin de maintenance,2024-03-22 17:50:08.836864,89,29,44520,18,23,C
+Semoir,11,15,besoin de réparation,2024-02-11 17:50:08.836868,47,27,40810,15,28,B
+Semoir,5,15,besoin de maintenance,2024-03-25 17:50:08.836872,61,20,18550,13,15,B
+Tracteur,5,15,bon état,2024-04-15 17:50:08.836877,63,18,18550,6,8,B
+Tondeuse agricole,12,12,besoin de maintenance,2024-03-27 17:50:08.836881,8,29,44520,6,15,C
+Moissonneuse,11,10,besoin de maintenance,2024-03-23 17:50:08.836886,81,36,40810,5,14,C
+Charrue,12,12,besoin de maintenance,2024-03-14 17:50:08.836889,31,48,44520,13,45,C
+Tondeuse agricole,11,15,bon état,2024-04-20 17:50:08.836893,59,44,40810,15,39,B
+Charrue,11,11,bon état,2024-04-27 17:50:08.836897,57,22,40810,8,19,C
+Moissonneuse,11,13,besoin de réparation,2024-02-22 17:50:08.836901,20,27,40810,14,26,C
+Tondeuse agricole,12,14,besoin de réparation,2024-02-13 17:50:08.836905,44,39,44520,9,38,C
+Charrue,8,12,bon état,2024-04-23 17:50:08.836908,43,32,29680,8,25,B
+Charrue,13,16,besoin de maintenance,2024-03-25 17:50:08.836912,68,26,48230,13,34,C
+Charrue,7,10,besoin de maintenance,2024-03-13 17:50:08.836916,38,23,25970,7,3,B
+Tondeuse agricole,11,10,besoin de réparation,2024-02-17 17:50:08.836920,80,40,40810,13,10,C
+Tondeuse agricole,11,12,besoin de réparation,2024-02-03 17:50:08.836924,61,44,40810,11,16,C
+Semoir,10,14,besoin de maintenance,2024-03-17 17:50:08.836928,2,40,37100,10,38,B
+Moissonneuse,11,10,besoin de réparation,2024-02-23 17:50:08.836932,2,44,40810,18,38,C
+Moissonneuse,13,11,bon état,2024-04-21 17:50:08.836936,69,32,48230,9,4,C
+Moissonneuse,8,12,besoin de maintenance,2024-03-15 17:50:08.836940,37,29,29680,5,46,B
+Remorque agricole,12,12,besoin de maintenance,2024-03-28 17:50:08.836944,51,29,44520,5,11,C
+Moissonneuse,4,13,besoin de maintenance,2024-03-03 17:50:08.836948,45,16,14840,6,22,B
+Semoir,13,13,besoin de maintenance,2024-03-02 17:50:08.836951,3,26,48230,11,36,C
+Tracteur,5,15,besoin de réparation,2024-04-08 17:50:08.836955,72,16,18550,8,6,B
+Tracteur,8,11,bon état,2024-04-21 17:50:08.836959,80,26,29680,7,28,B
+Tondeuse agricole,9,15,besoin de réparation,2024-02-18 17:50:08.836963,74,26,33390,15,7,B
+Moissonneuse,12,13,besoin de maintenance,2024-03-06 17:50:08.836967,11,44,44520,14,28,C
+Moissonneuse,4,12,bon état,2024-04-19 17:50:08.836971,23,15,14840,12,14,B
+Tracteur,6,11,besoin de maintenance,2024-03-11 17:50:08.836975,88,12,22260,9,23,B
+Moissonneuse,12,10,bon état,2024-04-28 17:50:08.836978,4,29,44520,15,22,C
+Semoir,8,11,besoin de réparation,2024-02-28 17:50:08.836982,36,29,29680,6,35,B
+Remorque agricole,3,16,besoin de réparation,2024-04-01 17:50:08.836986,82,10,11130,15,39,B
+Remorque agricole,12,13,besoin de maintenance,2024-03-14 17:50:08.836990,65,48,44520,7,23,C
+Remorque agricole,12,13,besoin de maintenance,2024-03-28 17:50:08.836993,84,34,44520,4,30,C
+Charrue,8,13,besoin de réparation,2024-02-15 17:50:08.836997,42,29,29680,6,45,B
+Semoir,11,10,besoin de réparation,2024-02-25 17:50:08.837001,68,40,40810,3,20,C
+Remorque agricole,6,12,besoin de réparation,2024-04-03 17:50:08.837005,89,24,22260,18,15,B
+Charrue,7,15,bon état,2024-04-23 17:50:08.837008,47,17,25970,8,11,B
+Moissonneuse,13,12,bon état,2024-04-27 17:50:08.837012,52,42,48230,5,44,C
+Tracteur,9,12,besoin de maintenance,2024-03-18 17:50:08.837016,88,26,33390,16,13,C
+Charrue,10,11,besoin de maintenance,2024-03-29 17:50:08.837020,16,36,37100,18,37,C
+Charrue,8,15,besoin de réparation,2024-02-24 17:50:08.837023,29,26,29680,15,36,B
+Moissonneuse,7,11,besoin de maintenance,2024-03-19 17:50:08.837027,88,17,25970,4,25,B
+Tracteur,6,15,besoin de réparation,2024-04-01 17:50:08.837031,74,22,22260,15,36,B
+Remorque agricole,11,11,bon état,2024-04-18 17:50:08.837035,33,31,40810,3,27,C
+Remorque agricole,13,12,besoin de maintenance,2024-03-02 17:50:08.837039,14,42,48230,17,7,C
+Tracteur,13,12,bon état,2024-04-20 17:50:08.837042,84,47,48230,16,47,C
+Charrue,10,10,besoin de réparation,2024-02-16 17:50:08.837046,73,40,37100,15,38,C
+Tondeuse agricole,6,10,besoin de maintenance,2024-03-09 17:50:08.837050,28,12,22260,4,35,B
+Semoir,6,11,besoin de réparation,2024-04-10 17:50:08.837054,71,17,22260,7,11,B
+Semoir,11,13,besoin de réparation,2024-02-10 17:50:08.837058,40,44,40810,2,36,C
+Semoir,7,11,besoin de réparation,2024-02-05 17:50:08.837062,53,28,25970,9,18,B
+Tondeuse agricole,13,15,bon état,2024-04-24 17:50:08.837066,75,26,48230,17,24,C
+Tondeuse agricole,9,11,besoin de maintenance,2024-03-30 17:50:08.837070,63,18,33390,3,15,C
+Remorque agricole,13,13,besoin de maintenance,2024-03-02 17:50:08.837073,47,47,48230,18,12,C
+Tondeuse agricole,12,10,bon état,2024-04-29 17:50:08.837077,49,34,44520,17,41,C
+Semoir,4,12,bon état,2024-04-24 17:50:08.837081,51,15,14840,16,31,B
+Tracteur,4,13,bon état,2024-04-17 17:50:08.837086,29,12,14840,17,6,B
+Charrue,4,15,besoin de maintenance,2024-03-02 17:50:08.837090,19,16,14840,10,19,B
+Tracteur,13,12,besoin de réparation,2024-02-06 17:50:08.837094,1,26,48230,8,25,C
+Moissonneuse,9,16,besoin de maintenance,2024-03-10 17:50:08.837098,43,22,33390,12,40,B
+Tondeuse agricole,5,10,besoin de réparation,2024-04-14 17:50:08.837152,39,12,18550,6,3,B
+Charrue,7,13,besoin de maintenance,2024-03-19 17:50:08.837156,67,17,25970,10,16,B
+Semoir,4,11,besoin de réparation,2024-03-31 17:50:08.837160,85,16,14840,9,13,B
+Tondeuse agricole,6,13,bon état,2024-04-16 17:50:08.837164,79,17,22260,10,33,B
+Moissonneuse,3,13,besoin de réparation,2024-04-13 17:50:08.837168,90,11,11130,14,37,B
+Tondeuse agricole,10,12,besoin de réparation,2024-02-20 17:50:08.837172,86,32,37100,10,35,C
+Charrue,4,16,besoin de maintenance,2024-03-23 17:50:08.837175,11,10,14840,7,13,B
+Remorque agricole,3,11,besoin de maintenance,2024-03-30 17:50:08.837179,83,12,11130,5,40,B
+Charrue,3,15,besoin de maintenance,2024-03-25 17:50:08.837183,15,6,11130,14,37,B
+Tracteur,5,16,besoin de maintenance,2024-03-09 17:50:08.837187,32,14,18550,17,46,B
+Tracteur,5,15,besoin de réparation,2024-04-11 17:50:08.837191,51,16,18550,17,18,B
+Semoir,9,16,bon état,2024-04-23 17:50:08.837194,15,36,33390,17,45,B
+Semoir,10,14,besoin de maintenance,2024-03-06 17:50:08.837198,29,20,37100,7,36,B
+Semoir,5,13,besoin de maintenance,2024-03-01 17:50:08.837202,34,16,18550,12,7,B
+Semoir,11,10,besoin de maintenance,2024-03-28 17:50:08.837206,9,36,40810,5,17,C
+Charrue,11,10,besoin de maintenance,2024-03-02 17:50:08.837211,64,44,40810,5,36,C
+Remorque agricole,9,13,bon état,2024-04-19 17:50:08.837215,81,18,33390,8,41,B
+Remorque agricole,9,14,besoin de maintenance,2024-03-10 17:50:08.837219,85,36,33390,3,22,B
+Charrue,5,12,bon état,2024-04-21 17:50:08.837224,82,18,18550,9,11,B
+Remorque agricole,10,12,besoin de réparation,2024-02-04 17:50:08.837227,26,20,37100,8,32,C
+Remorque agricole,8,16,bon état,2024-04-25 17:50:08.837231,50,16,29680,12,5,B
+Semoir,5,16,besoin de réparation,2024-04-14 17:50:08.837235,37,20,18550,14,2,B
+Tondeuse agricole,7,13,bon état,2024-04-29 17:50:08.837239,18,14,25970,14,18,B
+Semoir,11,12,besoin de maintenance,2024-03-25 17:50:08.837242,14,44,40810,9,6,C
+Moissonneuse,4,12,besoin de maintenance,2024-03-17 17:50:08.837246,9,15,14840,6,19,B
+Tondeuse agricole,7,14,besoin de réparation,2024-02-06 17:50:08.837250,56,26,25970,8,37,B
+Remorque agricole,11,10,besoin de maintenance,2024-03-18 17:50:08.837254,83,27,40810,7,10,C
+Tondeuse agricole,5,11,bon état,2024-04-22 17:50:08.837258,74,14,18550,16,14,B
+Tracteur,10,10,bon état,2024-04-21 17:50:08.837262,76,32,37100,13,11,C
+Charrue,6,11,besoin de maintenance,2024-03-28 17:50:08.837265,74,20,22260,10,37,B
+Charrue,9,11,bon état,2024-04-22 17:50:08.837269,12,18,33390,7,46,C
+Tracteur,5,11,bon état,2024-04-21 17:50:08.837273,4,20,18550,14,43,B
+Moissonneuse,13,15,besoin de réparation,2024-02-22 17:50:08.837277,45,47,48230,8,12,C
+Tondeuse agricole,9,10,besoin de maintenance,2024-03-12 17:50:08.837281,79,33,33390,5,48,C
+Charrue,7,11,bon état,2024-04-18 17:50:08.837285,38,14,25970,16,34,B
+Tondeuse agricole,10,12,bon état,2024-04-20 17:50:08.837289,68,20,37100,5,33,C
+Charrue,6,15,bon état,2024-04-17 17:50:08.837294,34,17,22260,3,42,B
+Moissonneuse,7,14,besoin de maintenance,2024-03-04 17:50:08.837298,47,23,25970,7,28,B
+Tracteur,4,15,besoin de maintenance,2024-03-11 17:50:08.837302,86,16,14840,6,2,B
+Semoir,12,15,besoin de maintenance,2024-03-30 17:50:08.837306,4,29,44520,6,42,C
+Remorque agricole,7,11,besoin de maintenance,2024-03-01 17:50:08.837310,39,26,25970,7,32,B
+Tondeuse agricole,5,12,bon état,2024-04-15 17:50:08.837313,37,10,18550,3,20,B
+Semoir,3,12,bon état,2024-04-15 17:50:08.837317,80,9,11130,16,33,A
+Charrue,9,13,bon état,2024-04-26 17:50:08.837322,58,29,33390,17,17,B
+Remorque agricole,10,11,besoin de maintenance,2024-03-04 17:50:08.837325,42,20,37100,7,7,C
+Tondeuse agricole,13,12,besoin de réparation,2024-02-27 17:50:08.837329,7,32,48230,7,39,C
+Moissonneuse,8,11,besoin de maintenance,2024-03-03 17:50:08.837333,33,16,29680,11,24,B
+Remorque agricole,6,13,besoin de réparation,2024-04-10 17:50:08.837337,90,22,22260,3,10,B
+Tondeuse agricole,7,16,bon état,2024-04-22 17:50:08.837341,57,17,25970,11,40,B
+Tondeuse agricole,13,14,besoin de réparation,2024-02-26 17:50:08.837345,74,26,48230,15,17,C
+Semoir,6,11,besoin de maintenance,2024-03-17 17:50:08.837348,26,12,22260,16,46,B
+Tondeuse agricole,4,12,besoin de maintenance,2024-03-15 17:50:08.837352,63,8,14840,7,25,B
+Charrue,5,12,bon état,2024-04-18 17:50:08.837356,15,12,18550,11,13,B
+Tracteur,9,16,besoin de maintenance,2024-03-23 17:50:08.837359,73,22,33390,14,19,B
+Tondeuse agricole,8,14,besoin de réparation,2024-02-23 17:50:08.837363,17,26,29680,17,26,B
+Semoir,12,12,besoin de maintenance,2024-03-18 17:50:08.837367,80,39,44520,5,8,C
+Semoir,6,16,besoin de réparation,2024-04-13 17:50:08.837371,81,12,22260,2,35,B
+Moissonneuse,13,15,besoin de réparation,2024-02-02 17:50:08.837375,15,42,48230,7,28,C
+Remorque agricole,6,13,besoin de maintenance,2024-03-02 17:50:08.837378,15,12,22260,3,24,B
+Charrue,4,16,besoin de réparation,2024-04-12 17:50:08.837382,18,10,14840,12,42,B
+Charrue,7,16,besoin de réparation,2024-02-15 17:50:08.837386,58,28,25970,10,41,B
+Remorque agricole,3,16,besoin de maintenance,2024-03-01 17:50:08.837390,86,6,11130,17,39,B
+Tondeuse agricole,5,15,besoin de maintenance,2024-03-20 17:50:08.837394,67,18,18550,14,46,B
+Moissonneuse,3,14,besoin de réparation,2024-04-13 17:50:08.837398,2,11,11130,6,45,B
+Remorque agricole,3,12,besoin de réparation,2024-04-09 17:50:08.837401,21,8,11130,17,36,B
+Moissonneuse,13,15,besoin de maintenance,2024-03-07 17:50:08.837405,86,42,48230,10,47,C
+Tondeuse agricole,10,10,besoin de réparation,2024-02-24 17:50:08.837409,4,36,37100,5,5,C
+Charrue,3,14,besoin de maintenance,2024-03-18 17:50:08.837413,5,6,11130,14,47,B
+Semoir,5,14,bon état,2024-04-21 17:50:08.837416,21,20,18550,17,47,B
+Semoir,10,10,besoin de réparation,2024-01-31 17:50:08.837420,55,28,37100,16,37,C
+Charrue,3,12,besoin de réparation,2024-04-07 17:50:08.837424,19,12,11130,7,5,B
+Tracteur,10,12,besoin de maintenance,2024-03-27 17:50:08.837428,80,24,37100,3,26,C
+Semoir,10,13,bon état,2024-04-22 17:50:08.837432,35,36,37100,7,33,C
+Charrue,7,13,besoin de réparation,2024-02-25 17:50:08.837435,30,14,25970,18,46,B
+Semoir,5,12,bon état,2024-04-17 17:50:08.837439,11,16,18550,5,21,B
+Remorque agricole,8,12,besoin de réparation,2024-02-21 17:50:08.837443,37,26,29680,14,25,B
+Tondeuse agricole,7,14,bon état,2024-04-17 17:50:08.837448,78,23,25970,2,17,B
+Moissonneuse,10,12,besoin de réparation,2024-02-01 17:50:08.837452,27,36,37100,13,6,C
+Moissonneuse,3,12,besoin de réparation,2024-04-09 17:50:08.837456,56,11,11130,17,36,B
+Tondeuse agricole,8,12,besoin de réparation,2024-02-16 17:50:08.837460,43,16,29680,5,11,B
+Tracteur,13,15,bon état,2024-04-21 17:50:08.837464,20,32,48230,2,28,C
+Moissonneuse,5,16,besoin de maintenance,2024-03-20 17:50:08.837468,61,18,18550,6,15,B
+Semoir,6,13,besoin de réparation,2024-03-31 17:50:08.837471,23,12,22260,14,15,B
+Moissonneuse,10,12,besoin de maintenance,2024-03-07 17:50:08.837475,45,28,37100,15,7,C
+Semoir,5,10,bon état,2024-04-17 17:50:08.837479,11,12,18550,3,39,B
+Charrue,5,11,bon état,2024-04-19 17:50:08.837482,79,12,18550,10,4,B
+Charrue,3,10,bon état,2024-04-21 17:50:08.837486,28,6,11130,7,44,A
+Semoir,13,16,bon état,2024-04-27 17:50:08.837490,1,47,48230,8,40,C
+Remorque agricole,5,12,besoin de maintenance,2024-03-06 17:50:08.837494,36,20,18550,3,46,B
+Moissonneuse,4,15,besoin de réparation,2024-04-11 17:50:08.837498,18,13,14840,6,36,B
+Remorque agricole,3,15,besoin de maintenance,2024-03-02 17:50:08.837502,87,11,11130,4,28,B
+Charrue,6,12,besoin de réparation,2024-04-08 17:50:08.837505,19,17,22260,16,2,B
+Remorque agricole,5,13,besoin de réparation,2024-04-04 17:50:08.837509,41,16,18550,12,39,B
+Tracteur,7,13,besoin de maintenance,2024-03-16 17:50:08.837513,47,28,25970,2,17,B
+Moissonneuse,5,16,besoin de maintenance,2024-03-13 17:50:08.837518,48,10,18550,12,45,B
+Remorque agricole,12,11,besoin de maintenance,2024-03-04 17:50:08.837522,80,39,44520,3,17,C
+Tondeuse agricole,6,10,bon état,2024-04-25 17:50:08.837525,23,20,22260,13,31,B
+Moissonneuse,13,13,besoin de réparation,2024-02-19 17:50:08.837529,28,47,48230,7,46,C
+Charrue,5,13,besoin de réparation,2024-04-02 17:50:08.837533,46,16,18550,9,37,B
+Tracteur,8,14,besoin de maintenance,2024-03-27 17:50:08.837537,22,23,29680,11,43,B
+Moissonneuse,11,16,besoin de maintenance,2024-03-24 17:50:08.837541,35,40,40810,11,15,B
+Tracteur,9,10,besoin de réparation,2024-02-15 17:50:08.837545,88,36,33390,8,45,C
+Tondeuse agricole,8,11,besoin de maintenance,2024-03-02 17:50:08.837549,64,26,29680,11,43,B
+Remorque agricole,12,16,bon état,2024-04-25 17:50:08.837553,3,34,44520,16,9,C
+Charrue,9,16,besoin de maintenance,2024-03-28 17:50:08.837556,23,33,33390,15,39,B
+Remorque agricole,9,14,besoin de réparation,2024-02-09 17:50:08.837560,86,18,33390,3,31,B
+Charrue,3,16,bon état,2024-04-19 17:50:08.837564,61,11,11130,9,2,B
+Semoir,11,10,besoin de maintenance,2024-03-21 17:50:08.837568,25,44,40810,18,35,C
+Semoir,11,12,besoin de réparation,2024-02-06 17:50:08.837572,57,40,40810,2,32,C
+Charrue,12,11,besoin de réparation,2024-02-24 17:50:08.837576,62,29,44520,17,34,C
+Tracteur,4,11,bon état,2024-04-22 17:50:08.837579,69,15,14840,3,32,B
+Semoir,4,12,bon état,2024-04-23 17:50:08.837583,63,8,14840,13,46,A
+Remorque agricole,5,13,bon état,2024-04-25 17:50:08.837587,60,10,18550,3,11,B
+Moissonneuse,11,13,bon état,2024-04-21 17:50:08.837591,42,36,40810,13,12,C
+Charrue,10,13,bon état,2024-04-22 17:50:08.837595,24,20,37100,4,11,C
+Remorque agricole,11,13,besoin de maintenance,2024-03-28 17:50:08.837598,42,44,40810,4,23,C
+Moissonneuse,8,10,besoin de maintenance,2024-03-11 17:50:08.837605,77,23,29680,4,12,C
+Tondeuse agricole,5,14,bon état,2024-04-23 17:50:08.837609,2,12,18550,11,41,B
+Moissonneuse,7,15,besoin de réparation,2024-02-06 17:50:08.837613,79,20,25970,3,15,B
+Semoir,7,16,besoin de réparation,2024-03-01 17:50:08.837617,53,28,25970,8,15,B
+Remorque agricole,7,11,besoin de maintenance,2024-03-01 17:50:08.837621,13,20,25970,11,19,B
+Semoir,13,11,besoin de maintenance,2024-03-26 17:50:08.837625,58,32,48230,18,34,C
+Charrue,12,11,bon état,2024-04-18 17:50:08.837629,41,44,44520,5,27,C
+Moissonneuse,10,14,besoin de réparation,2024-02-01 17:50:08.837633,83,32,37100,11,13,B
+Remorque agricole,3,15,besoin de réparation,2024-04-14 17:50:08.837637,40,10,11130,9,18,B
+Charrue,3,10,besoin de maintenance,2024-03-18 17:50:08.837641,54,10,11130,5,3,B
+Remorque agricole,4,10,besoin de maintenance,2024-03-21 17:50:08.837644,30,13,14840,8,44,B
+Remorque agricole,8,12,besoin de réparation,2024-02-10 17:50:08.837649,27,20,29680,3,24,B
+Moissonneuse,13,14,bon état,2024-04-26 17:50:08.837653,69,26,48230,9,21,C
+Remorque agricole,8,15,bon état,2024-04-24 17:50:08.837656,24,32,29680,14,12,B
+Moissonneuse,7,10,besoin de réparation,2024-02-27 17:50:08.837660,11,20,25970,15,44,B
+Tondeuse agricole,6,11,besoin de réparation,2024-04-08 17:50:08.837664,39,12,22260,14,11,B
+Remorque agricole,13,14,bon état,2024-04-24 17:50:08.837668,68,47,48230,12,8,C
+Remorque agricole,8,11,besoin de maintenance,2024-03-06 17:50:08.837672,74,16,29680,4,45,B
+Tondeuse agricole,10,11,bon état,2024-04-28 17:50:08.837676,51,36,37100,16,42,C
+Tondeuse agricole,4,12,besoin de maintenance,2024-03-13 17:50:08.837679,47,13,14840,17,28,B
+Tondeuse agricole,12,11,besoin de maintenance,2024-03-04 17:50:08.837683,5,44,44520,16,38,C
+Tracteur,9,16,besoin de réparation,2024-01-31 17:50:08.837687,81,29,33390,9,41,B
+Tracteur,7,12,besoin de maintenance,2024-03-02 17:50:08.837691,46,14,25970,3,31,B
+Tondeuse agricole,7,13,bon état,2024-04-16 17:50:08.837695,83,20,25970,10,13,B
+Remorque agricole,7,14,besoin de maintenance,2024-03-28 17:50:08.837698,4,17,25970,15,6,B
+Moissonneuse,3,12,besoin de maintenance,2024-03-20 17:50:08.837702,69,8,11130,17,46,B
+Tracteur,7,16,besoin de maintenance,2024-03-24 17:50:08.837707,73,17,25970,5,42,B
+Semoir,8,10,bon état,2024-04-27 17:50:08.837711,35,16,29680,2,41,C
+Moissonneuse,4,14,besoin de réparation,2024-04-10 17:50:08.837715,1,10,14840,7,39,B
+Tracteur,6,12,besoin de réparation,2024-04-05 17:50:08.837718,25,15,22260,13,24,B
+Moissonneuse,11,14,besoin de réparation,2024-02-20 17:50:08.837723,10,44,40810,11,6,C
+Remorque agricole,11,14,besoin de maintenance,2024-03-19 17:50:08.837726,4,40,40810,8,26,C
+Charrue,12,10,besoin de réparation,2024-02-07 17:50:08.837731,5,24,44520,10,36,C
+Moissonneuse,11,13,besoin de réparation,2024-02-03 17:50:08.837734,18,31,40810,16,27,C
+Tracteur,5,14,bon état,2024-04-19 17:50:08.837738,63,18,18550,11,13,B
+Charrue,7,16,bon état,2024-04-23 17:50:08.837742,18,14,25970,9,32,B
+Remorque agricole,8,14,bon état,2024-04-18 17:50:08.837746,47,23,29680,3,14,B
+Tracteur,5,11,besoin de réparation,2024-04-06 17:50:08.837749,2,20,18550,4,27,B
+Charrue,5,15,besoin de maintenance,2024-03-26 17:50:08.837753,84,10,18550,4,30,B
+Tracteur,11,11,besoin de réparation,2024-02-06 17:50:08.837757,56,44,40810,6,34,C
+Moissonneuse,5,10,besoin de maintenance,2024-03-18 17:50:08.837762,7,18,18550,11,45,B
+Charrue,8,16,bon état,2024-04-26 17:50:08.837766,36,26,29680,14,8,B
+Charrue,5,11,besoin de maintenance,2024-03-25 17:50:08.837770,63,10,18550,9,2,B
+Tondeuse agricole,11,10,besoin de réparation,2024-02-21 17:50:08.837774,41,22,40810,18,32,C
+Semoir,4,13,besoin de réparation,2024-04-05 17:50:08.837778,72,8,14840,5,27,B
+Tracteur,7,10,bon état,2024-04-17 17:50:08.837782,66,28,25970,16,10,B
+Charrue,11,13,besoin de réparation,2024-02-05 17:50:08.837786,72,31,40810,2,20,C
+Remorque agricole,7,15,besoin de réparation,2024-02-27 17:50:08.837790,14,28,25970,18,15,B
+Semoir,5,16,besoin de réparation,2024-04-06 17:50:08.837793,23,20,18550,7,8,B
+Tondeuse agricole,6,12,bon état,2024-04-16 17:50:08.837797,29,20,22260,13,18,B
+Charrue,4,14,besoin de réparation,2024-04-02 17:50:08.837801,65,12,14840,4,16,B
+Charrue,4,13,bon état,2024-04-19 17:50:08.837805,11,15,14840,2,16,B
+Moissonneuse,8,12,bon état,2024-04-21 17:50:08.837809,28,20,29680,10,23,B
+Tracteur,8,10,besoin de maintenance,2024-03-11 17:50:08.837812,57,29,29680,3,12,C
+Remorque agricole,5,10,besoin de maintenance,2024-03-13 17:50:08.837817,53,16,18550,18,44,B
+Semoir,5,10,besoin de maintenance,2024-03-09 17:50:08.837821,31,10,18550,8,32,B
+Remorque agricole,10,10,besoin de maintenance,2024-03-28 17:50:08.837824,60,20,37100,7,25,C
+Tondeuse agricole,11,13,besoin de réparation,2024-02-27 17:50:08.837828,80,27,40810,8,41,C
+Tondeuse agricole,13,16,besoin de maintenance,2024-03-29 17:50:08.837834,45,37,48230,9,42,C
+Tracteur,12,13,besoin de maintenance,2024-03-21 17:50:08.837838,63,39,44520,18,45,C
+Tracteur,13,13,besoin de réparation,2024-02-15 17:50:08.837842,18,26,48230,5,41,C
+Tracteur,6,13,besoin de maintenance,2024-03-25 17:50:08.837846,14,17,22260,7,19,B
+Moissonneuse,12,14,besoin de maintenance,2024-03-19 17:50:08.837850,40,29,44520,7,44,C
+Moissonneuse,12,14,besoin de réparation,2024-02-04 17:50:08.837854,64,48,44520,18,15,C
+Moissonneuse,12,15,bon état,2024-04-17 17:50:08.837858,18,39,44520,8,4,C
+Charrue,11,13,bon état,2024-04-21 17:50:08.837862,8,31,40810,5,8,C
+Moissonneuse,3,15,bon état,2024-04-16 17:50:08.837866,32,11,11130,16,42,B
+Moissonneuse,11,16,bon état,2024-04-25 17:50:08.837870,3,22,40810,9,31,B
+Remorque agricole,9,16,besoin de réparation,2024-02-04 17:50:08.837873,47,18,33390,8,5,B
+Moissonneuse,6,10,besoin de réparation,2024-04-11 17:50:08.837877,3,20,22260,9,41,B
+Tracteur,3,13,bon état,2024-04-17 17:50:08.837881,63,6,11130,4,5,A
+Remorque agricole,13,16,besoin de maintenance,2024-03-15 17:50:08.837885,79,52,48230,4,34,C
+Charrue,3,13,besoin de maintenance,2024-03-05 17:50:08.837889,35,11,11130,10,12,B
+Remorque agricole,7,10,bon état,2024-04-23 17:50:08.837892,56,14,25970,14,43,B
+Tondeuse agricole,12,15,besoin de réparation,2024-02-26 17:50:08.837896,55,48,44520,12,11,C
+Semoir,3,12,besoin de réparation,2024-04-13 17:50:08.837901,7,12,11130,8,7,B
+Semoir,10,15,besoin de maintenance,2024-03-14 17:50:08.837905,51,28,37100,5,25,B
+Tracteur,10,13,besoin de maintenance,2024-03-07 17:50:08.837909,43,28,37100,2,29,C
+Semoir,13,16,besoin de maintenance,2024-03-30 17:50:08.837912,38,37,48230,14,14,C
+Remorque agricole,4,11,bon état,2024-04-19 17:50:08.837916,84,12,14840,6,41,B
+Moissonneuse,3,13,bon état,2024-04-15 17:50:08.837921,19,9,11130,3,4,A
+Remorque agricole,3,15,besoin de maintenance,2024-03-05 17:50:08.837925,53,10,11130,14,11,B
+Tracteur,4,12,bon état,2024-04-17 17:50:08.837929,41,12,14840,9,14,B
+Tondeuse agricole,8,14,besoin de réparation,2024-02-17 17:50:08.837932,58,20,29680,2,38,B
+Tondeuse agricole,12,12,bon état,2024-04-15 17:50:08.837936,15,24,44520,15,6,C
+Semoir,13,11,bon état,2024-04-26 17:50:08.837940,19,52,48230,18,15,C
+Charrue,6,12,besoin de réparation,2024-04-08 17:50:08.837944,56,22,22260,16,17,B
+Semoir,9,13,besoin de réparation,2024-02-19 17:50:08.837948,89,36,33390,18,39,B
+Remorque agricole,11,14,bon état,2024-04-20 17:50:08.837952,20,22,40810,16,46,C
+Tracteur,3,11,besoin de maintenance,2024-03-06 17:50:08.837956,54,9,11130,2,44,B
+Tondeuse agricole,13,15,besoin de réparation,2024-02-21 17:50:08.837960,59,37,48230,7,31,C
+Remorque agricole,11,15,besoin de réparation,2024-02-21 17:50:08.837964,55,22,40810,2,10,B
+Tondeuse agricole,8,16,bon état,2024-04-20 17:50:08.837967,82,20,29680,7,36,B
+Semoir,6,14,besoin de réparation,2024-04-14 17:50:08.837971,38,20,22260,4,10,B
+Semoir,9,12,besoin de maintenance,2024-03-04 17:50:08.837975,6,29,33390,9,18,C
+Semoir,4,15,besoin de réparation,2024-04-04 17:50:08.837979,7,12,14840,12,15,B
+Tondeuse agricole,11,12,besoin de réparation,2024-02-23 17:50:08.837982,29,36,40810,17,44,C
+Tracteur,13,14,besoin de maintenance,2024-03-21 17:50:08.837986,24,47,48230,16,3,C
+Charrue,8,13,bon état,2024-04-22 17:50:08.837990,11,32,29680,12,35,B
+Semoir,3,11,besoin de maintenance,2024-03-21 17:50:08.837994,84,8,11130,14,15,B
+Tracteur,11,10,bon état,2024-04-29 17:50:08.837998,63,31,40810,18,15,C
+Charrue,6,14,besoin de réparation,2024-03-31 17:50:08.838002,42,20,22260,17,31,B
+Semoir,4,13,besoin de maintenance,2024-03-29 17:50:08.838006,53,13,14840,6,26,B
+Tracteur,6,15,besoin de maintenance,2024-03-18 17:50:08.838009,49,15,22260,8,18,B
+Semoir,5,11,bon état,2024-04-15 17:50:08.838013,75,10,18550,2,13,B
+Tracteur,3,12,bon état,2024-04-19 17:50:08.838017,41,6,11130,10,36,A
+Tracteur,5,11,besoin de réparation,2024-04-01 17:50:08.838021,28,14,18550,15,18,B
+Moissonneuse,11,15,bon état,2024-04-17 17:50:08.838025,73,36,40810,4,3,B
+Semoir,10,13,bon état,2024-04-28 17:50:08.838029,48,36,37100,3,5,C
+Moissonneuse,13,16,besoin de maintenance,2024-03-11 17:50:08.838032,27,26,48230,3,16,C
+Charrue,9,10,besoin de réparation,2024-02-25 17:50:08.838036,82,18,33390,8,6,C
+Charrue,13,14,besoin de maintenance,2024-03-06 17:50:08.838040,63,26,48230,2,48,C
+Semoir,3,16,besoin de maintenance,2024-03-25 17:50:08.838044,90,12,11130,6,11,B
+Tondeuse agricole,5,10,besoin de réparation,2024-03-31 17:50:08.838048,69,20,18550,15,6,B
+Tondeuse agricole,4,10,bon état,2024-04-26 17:50:08.838051,24,15,14840,8,43,B
+Tondeuse agricole,3,13,besoin de maintenance,2024-03-07 17:50:08.838055,65,8,11130,3,33,B
+Remorque agricole,7,15,besoin de maintenance,2024-03-04 17:50:08.838059,38,23,25970,13,10,B
+Remorque agricole,10,10,bon état,2024-04-23 17:50:08.838063,85,36,37100,8,40,C
+Tondeuse agricole,11,16,bon état,2024-04-29 17:50:08.838067,85,27,40810,10,31,B
+Charrue,6,14,bon état,2024-04-28 17:50:08.838071,43,15,22260,5,47,B
+Semoir,8,16,besoin de maintenance,2024-03-05 17:50:08.838076,76,23,29680,10,2,B
+Tondeuse agricole,9,12,bon état,2024-04-15 17:50:08.838079,12,26,33390,16,25,C
+Semoir,8,15,bon état,2024-04-26 17:50:08.838083,57,16,29680,9,2,B
+Moissonneuse,9,16,bon état,2024-04-19 17:50:08.838087,59,33,33390,12,10,B
+Charrue,10,16,besoin de maintenance,2024-03-05 17:50:08.838091,53,32,37100,3,13,B
+Tondeuse agricole,8,11,besoin de maintenance,2024-03-22 17:50:08.838094,44,20,29680,16,48,B
+Tondeuse agricole,11,16,besoin de maintenance,2024-03-27 17:50:08.838099,9,40,40810,3,26,B
+Semoir,6,12,bon état,2024-04-16 17:50:08.838103,5,24,22260,2,17,B
+Moissonneuse,7,10,besoin de maintenance,2024-03-18 17:50:08.838106,61,23,25970,10,2,B
+Remorque agricole,11,11,bon état,2024-04-21 17:50:08.838110,54,31,40810,12,43,C
+Charrue,10,10,besoin de maintenance,2024-03-27 17:50:08.838114,5,28,37100,15,14,C
+Moissonneuse,10,14,bon état,2024-04-19 17:50:08.838118,11,28,37100,9,14,B
+Charrue,3,16,besoin de réparation,2024-04-12 17:50:08.838121,83,9,11130,3,45,B
+Tondeuse agricole,4,13,besoin de maintenance,2024-03-06 17:50:08.838125,61,15,14840,4,31,B
+Charrue,4,14,besoin de maintenance,2024-03-05 17:50:08.838129,78,12,14840,13,26,B
+Charrue,7,13,besoin de réparation,2024-02-24 17:50:08.838133,23,14,25970,18,18,B
+Moissonneuse,6,14,bon état,2024-04-16 17:50:08.838136,72,15,22260,3,43,B
+Semoir,3,12,bon état,2024-04-18 17:50:08.838140,62,8,11130,16,8,A
+Semoir,6,15,bon état,2024-04-28 17:50:08.838144,16,17,22260,10,33,B
+Tracteur,6,10,besoin de réparation,2024-04-03 17:50:08.838148,12,17,22260,16,40,B
+Tondeuse agricole,3,10,besoin de maintenance,2024-03-29 17:50:08.838152,17,12,11130,17,18,B
+Moissonneuse,12,16,besoin de réparation,2024-02-07 17:50:08.838156,36,44,44520,11,25,C
+Moissonneuse,8,12,besoin de maintenance,2024-03-15 17:50:08.838160,22,29,29680,4,36,B
+Tondeuse agricole,10,12,besoin de maintenance,2024-03-23 17:50:08.838163,12,40,37100,17,46,C
+Tondeuse agricole,8,10,besoin de réparation,2024-02-12 17:50:08.838167,74,29,29680,6,29,C
+Charrue,9,13,besoin de maintenance,2024-03-06 17:50:08.838171,33,18,33390,9,17,B
+Tondeuse agricole,6,16,besoin de réparation,2024-04-10 17:50:08.838175,51,22,22260,5,19,B
+Tracteur,10,11,besoin de réparation,2024-02-24 17:50:08.838178,46,36,37100,2,35,C
+Semoir,11,12,besoin de maintenance,2024-03-04 17:50:08.838182,51,44,40810,3,30,C
+Tondeuse agricole,7,13,bon état,2024-04-23 17:50:08.838186,29,20,25970,5,36,B
+Moissonneuse,10,10,besoin de maintenance,2024-03-30 17:50:08.838190,38,20,37100,10,9,C
+Tracteur,7,13,besoin de maintenance,2024-03-05 17:50:08.838194,26,14,25970,6,40,B
+Remorque agricole,9,12,bon état,2024-04-28 17:50:08.838197,10,26,33390,4,23,C
+Tracteur,12,11,besoin de maintenance,2024-03-15 17:50:08.838201,65,29,44520,10,47,C
+Moissonneuse,7,12,bon état,2024-04-20 17:50:08.838205,46,17,25970,6,6,B
+Tondeuse agricole,12,14,besoin de réparation,2024-02-01 17:50:08.838209,67,29,44520,8,48,C
+Charrue,12,12,bon état,2024-04-22 17:50:08.838212,77,29,44520,12,35,C
+Moissonneuse,6,14,besoin de réparation,2024-04-11 17:50:08.838216,82,20,22260,4,15,B
+Charrue,11,11,besoin de maintenance,2024-03-05 17:50:08.838220,57,40,40810,17,44,C
+Moissonneuse,6,10,besoin de réparation,2024-04-10 17:50:08.838224,59,20,22260,9,42,B
+Remorque agricole,9,11,besoin de maintenance,2024-03-07 17:50:08.838229,7,33,33390,18,22,C
+Remorque agricole,8,12,besoin de maintenance,2024-03-04 17:50:08.838232,37,32,29680,9,21,B
+Moissonneuse,3,11,besoin de réparation,2024-04-01 17:50:08.838236,50,10,11130,15,12,B
+Semoir,9,11,besoin de maintenance,2024-03-22 17:50:08.838240,31,18,33390,11,23,C
+Semoir,7,11,besoin de maintenance,2024-03-26 17:50:08.838244,36,23,25970,8,3,B
+Semoir,12,13,bon état,2024-04-26 17:50:08.838248,85,44,44520,14,6,C
+Semoir,10,13,besoin de réparation,2024-02-24 17:50:08.838251,85,20,37100,3,15,C
+Tondeuse agricole,8,10,besoin de réparation,2024-02-12 17:50:08.838255,50,23,29680,11,16,C
+Tondeuse agricole,4,11,besoin de réparation,2024-04-04 17:50:08.838259,87,12,14840,16,11,B
+Tondeuse agricole,7,11,besoin de maintenance,2024-03-24 17:50:08.838263,15,14,25970,4,7,B
+Remorque agricole,11,10,besoin de réparation,2024-02-02 17:50:08.838267,71,31,40810,11,19,C
+Semoir,4,11,besoin de réparation,2024-04-07 17:50:08.838271,77,16,14840,18,29,B
+Tracteur,7,14,besoin de réparation,2024-02-07 17:50:08.838274,41,28,25970,15,33,B
+Semoir,13,10,besoin de réparation,2024-02-04 17:50:08.838278,11,26,48230,14,5,C
+Semoir,9,13,bon état,2024-04-18 17:50:08.838282,55,33,33390,6,10,B
+Charrue,13,11,besoin de réparation,2024-02-02 17:50:08.838286,46,47,48230,13,34,C
+Semoir,3,16,bon état,2024-04-20 17:50:08.838290,37,8,11130,13,23,A
+Semoir,6,10,bon état,2024-04-22 17:50:08.838294,79,12,22260,9,42,B
+Remorque agricole,11,16,besoin de maintenance,2024-03-23 17:50:08.838298,82,31,40810,18,32,B
+Remorque agricole,5,11,besoin de maintenance,2024-03-07 17:50:08.838302,12,14,18550,5,40,B
+Moissonneuse,5,13,bon état,2024-04-15 17:50:08.838306,12,20,18550,3,5,B
+Remorque agricole,9,14,bon état,2024-04-21 17:50:08.838310,18,18,33390,17,16,B
+Tondeuse agricole,11,12,besoin de maintenance,2024-03-27 17:50:08.838314,43,27,40810,12,22,C
+Remorque agricole,8,16,besoin de réparation,2024-02-15 17:50:08.838317,3,16,29680,12,3,B
+Remorque agricole,11,10,besoin de réparation,2024-02-14 17:50:08.838321,66,27,40810,12,42,C
+Moissonneuse,13,13,bon état,2024-04-27 17:50:08.838325,61,52,48230,18,18,C
+Semoir,11,10,besoin de réparation,2024-02-10 17:50:08.838329,21,27,40810,2,16,C
+Remorque agricole,12,13,besoin de réparation,2024-02-03 17:50:08.838333,22,48,44520,6,20,C
+Tracteur,6,11,bon état,2024-04-18 17:50:08.838337,41,20,22260,18,39,B
+Charrue,4,13,bon état,2024-04-26 17:50:08.838340,45,12,14840,2,27,B
+Remorque agricole,4,10,besoin de maintenance,2024-03-21 17:50:08.838344,90,16,14840,13,45,B
+Charrue,13,15,besoin de réparation,2024-02-19 17:50:08.838348,48,52,48230,18,41,C
+Moissonneuse,9,13,besoin de réparation,2024-01-31 17:50:08.838352,55,36,33390,6,9,B
+Remorque agricole,8,10,bon état,2024-04-28 17:50:08.838355,41,16,29680,16,13,C
+Tondeuse agricole,10,10,bon état,2024-04-25 17:50:08.838359,77,28,37100,17,17,C
+Tracteur,3,11,bon état,2024-04-18 17:50:08.838363,7,10,11130,10,43,B
+Semoir,12,11,besoin de maintenance,2024-03-25 17:50:08.838367,20,34,44520,6,32,C
+Tondeuse agricole,12,15,besoin de maintenance,2024-03-05 17:50:08.838371,67,39,44520,3,40,C
+Tracteur,3,13,bon état,2024-04-24 17:50:08.838375,29,8,11130,10,6,A
+Tracteur,9,10,bon état,2024-04-15 17:50:08.838379,70,33,33390,7,12,C
+Tondeuse agricole,13,15,bon état,2024-04-23 17:50:08.838384,56,42,48230,17,13,C
+Tondeuse agricole,6,14,besoin de maintenance,2024-03-26 17:50:08.838388,31,24,22260,14,14,B
+Charrue,11,16,besoin de maintenance,2024-03-30 17:50:08.838392,78,44,40810,9,32,B
+Charrue,3,12,besoin de maintenance,2024-03-10 17:50:08.838395,64,10,11130,10,44,B
+Tondeuse agricole,8,10,besoin de réparation,2024-02-27 17:50:08.838399,40,32,29680,6,44,C
+Tracteur,11,12,besoin de maintenance,2024-03-19 17:50:08.838403,67,27,40810,6,29,C
+Charrue,13,10,bon état,2024-04-19 17:50:08.838407,88,52,48230,5,48,C
+Charrue,4,10,bon état,2024-04-18 17:50:08.838411,45,15,14840,11,15,B
+Moissonneuse,13,16,besoin de réparation,2024-02-14 17:50:08.838415,16,37,48230,11,2,C
+Remorque agricole,5,15,besoin de réparation,2024-04-06 17:50:08.838419,71,18,18550,11,37,B
+Tracteur,13,12,bon état,2024-04-20 17:50:08.838422,82,37,48230,2,22,C
+Charrue,4,13,besoin de réparation,2024-04-15 17:50:08.838426,69,8,14840,3,32,B
+Remorque agricole,3,15,besoin de maintenance,2024-03-17 17:50:08.838430,21,11,11130,17,44,B
+Tracteur,5,11,bon état,2024-04-20 17:50:08.838434,48,12,18550,11,25,B
+Tracteur,3,11,besoin de maintenance,2024-03-21 17:50:08.838438,9,6,11130,10,24,B
+Tracteur,13,11,besoin de maintenance,2024-03-30 17:50:08.838442,44,32,48230,5,10,C
+Tracteur,7,12,besoin de réparation,2024-02-06 17:50:08.838445,53,28,25970,4,30,B
+Remorque agricole,13,13,bon état,2024-04-28 17:50:08.838449,9,42,48230,13,36,C
+Moissonneuse,4,16,besoin de maintenance,2024-03-20 17:50:08.838453,1,12,14840,9,8,B
+Charrue,6,15,besoin de réparation,2024-04-12 17:50:08.838457,40,12,22260,12,27,B
+Moissonneuse,13,12,besoin de réparation,2024-02-13 17:50:08.838461,49,47,48230,12,13,C
+Semoir,6,10,besoin de réparation,2024-04-08 17:50:08.838464,15,20,22260,2,41,B
+Tondeuse agricole,10,14,besoin de maintenance,2024-03-28 17:50:08.838468,48,36,37100,2,37,B
+Charrue,3,13,bon état,2024-04-28 17:50:08.838472,78,12,11130,18,28,B
+Tondeuse agricole,3,13,besoin de maintenance,2024-03-05 17:50:08.838476,25,9,11130,11,42,B
+Moissonneuse,10,16,bon état,2024-04-24 17:50:08.838480,30,40,37100,8,37,B
+Tracteur,11,15,bon état,2024-04-18 17:50:08.838484,54,40,40810,7,4,B
+Semoir,11,13,besoin de réparation,2024-02-01 17:50:08.838487,9,36,40810,10,9,C
+Charrue,12,16,bon état,2024-04-18 17:50:08.838491,47,24,44520,14,9,C
+Tondeuse agricole,3,14,bon état,2024-04-15 17:50:08.838496,69,6,11130,7,4,A
+Tondeuse agricole,4,16,besoin de réparation,2024-04-01 17:50:08.838500,30,8,14840,9,18,B
+Tondeuse agricole,7,15,besoin de maintenance,2024-03-16 17:50:08.838504,83,23,25970,13,8,B
+Charrue,5,10,bon état,2024-04-24 17:50:08.838507,76,10,18550,13,9,B
+Charrue,9,14,bon état,2024-04-29 17:50:08.838511,60,36,33390,14,12,B
+Semoir,7,14,besoin de maintenance,2024-03-27 17:50:08.838515,37,23,25970,9,4,B
+Remorque agricole,6,15,bon état,2024-04-15 17:50:08.838519,8,20,22260,12,19,B
+Moissonneuse,8,11,bon état,2024-04-23 17:50:08.838523,83,29,29680,7,30,B
+Charrue,8,13,bon état,2024-04-25 17:50:08.838527,57,16,29680,6,11,B
+Remorque agricole,8,14,bon état,2024-04-20 17:50:08.838530,61,20,29680,16,21,B
+Tondeuse agricole,5,11,besoin de maintenance,2024-03-15 17:50:08.838535,4,12,18550,6,16,B
+Semoir,9,10,besoin de maintenance,2024-03-21 17:50:08.838540,75,22,33390,14,14,C
+Remorque agricole,11,12,bon état,2024-04-23 17:50:08.838544,19,40,40810,3,43,C
+Moissonneuse,4,16,besoin de maintenance,2024-03-31 17:50:08.838548,76,15,14840,13,33,B
+Semoir,6,10,bon état,2024-04-29 17:50:08.838552,19,24,22260,11,10,B
+Tracteur,10,15,besoin de réparation,2024-02-01 17:50:08.838556,20,20,37100,8,46,B
+Tondeuse agricole,3,15,bon état,2024-04-19 17:50:08.838560,54,8,11130,13,9,A
+Tondeuse agricole,5,10,bon état,2024-04-16 17:50:08.838564,11,14,18550,13,8,B
+Semoir,8,13,bon état,2024-04-21 17:50:08.838567,21,16,29680,10,11,B
+Charrue,12,16,besoin de maintenance,2024-03-21 17:50:08.838571,46,48,44520,5,26,C
+Remorque agricole,11,13,besoin de réparation,2024-02-28 17:50:08.838575,80,31,40810,10,37,C
+Semoir,6,10,besoin de maintenance,2024-03-04 17:50:08.838579,38,15,22260,9,9,B
+Tondeuse agricole,8,10,besoin de maintenance,2024-03-22 17:50:08.838583,26,29,29680,2,27,C
+Remorque agricole,13,11,bon état,2024-04-15 17:50:08.838587,23,37,48230,13,42,C
+Tracteur,4,14,bon état,2024-04-28 17:50:08.838591,61,8,14840,6,10,A
+Tracteur,6,12,besoin de réparation,2024-04-10 17:50:08.838594,18,24,22260,3,17,B
+Tondeuse agricole,4,10,besoin de réparation,2024-04-15 17:50:08.838598,29,16,14840,11,38,B
+Tondeuse agricole,8,12,besoin de maintenance,2024-03-31 17:50:08.838602,59,16,29680,6,2,B
+Semoir,8,11,besoin de maintenance,2024-03-07 17:50:08.838606,60,20,29680,4,25,B
+Charrue,3,13,besoin de maintenance,2024-03-30 17:50:08.838610,6,9,11130,15,19,B
+Tondeuse agricole,9,10,besoin de maintenance,2024-03-15 17:50:08.838614,16,18,33390,4,22,C
+Moissonneuse,8,14,besoin de réparation,2024-02-24 17:50:08.838618,88,16,29680,10,32,B
+Moissonneuse,12,16,bon état,2024-04-16 17:50:08.838622,15,39,44520,3,29,C
+Remorque agricole,8,10,besoin de maintenance,2024-03-29 17:50:08.838626,20,26,29680,6,4,C
+Tracteur,13,11,besoin de réparation,2024-02-23 17:50:08.838629,86,52,48230,15,41,C
+Charrue,4,12,besoin de réparation,2024-04-05 17:50:08.838633,67,8,14840,5,26,B
+Charrue,3,13,besoin de réparation,2024-04-08 17:50:08.838637,31,12,11130,9,23,B
+Charrue,7,16,besoin de réparation,2024-02-16 17:50:08.838641,76,20,25970,9,36,B
+Charrue,12,12,besoin de réparation,2024-02-15 17:50:08.838645,59,34,44520,7,12,C
+Tondeuse agricole,7,16,besoin de maintenance,2024-03-22 17:50:08.838649,15,26,25970,16,30,B
+Tracteur,9,10,besoin de réparation,2024-02-05 17:50:08.838652,75,26,33390,3,23,C
+Semoir,5,15,besoin de réparation,2024-04-02 17:50:08.838656,48,18,18550,9,34,B
+Semoir,5,13,bon état,2024-04-28 17:50:08.838660,14,14,18550,10,19,B
+Moissonneuse,6,16,bon état,2024-04-18 17:50:08.838664,75,15,22260,8,27,B
+Tracteur,12,11,besoin de maintenance,2024-03-21 17:50:08.838668,89,48,44520,14,38,C
+Semoir,13,13,bon état,2024-04-19 17:50:08.838672,89,26,48230,7,10,C
+Tracteur,6,12,besoin de maintenance,2024-03-22 17:50:08.838676,38,15,22260,6,16,B
+Remorque agricole,5,13,bon état,2024-04-28 17:50:08.838680,49,20,18550,14,17,B
+Semoir,11,12,besoin de réparation,2024-02-16 17:50:08.838684,53,36,40810,3,16,C
+Remorque agricole,7,15,besoin de maintenance,2024-03-07 17:50:08.838688,56,20,25970,16,44,B
+Charrue,3,14,besoin de réparation,2024-04-03 17:50:08.838692,68,8,11130,15,17,B
+Remorque agricole,11,16,besoin de maintenance,2024-03-09 17:50:08.838697,37,40,40810,11,35,B
+Remorque agricole,8,12,besoin de réparation,2024-02-24 17:50:08.838701,75,26,29680,16,29,B
+Charrue,11,12,bon état,2024-04-15 17:50:08.838705,74,27,40810,9,48,C
+Moissonneuse,4,15,bon état,2024-04-21 17:50:08.838709,90,12,14840,8,23,B
+Tracteur,13,14,besoin de réparation,2024-02-19 17:50:08.838713,78,47,48230,14,44,C
+Moissonneuse,10,14,bon état,2024-04-17 17:50:08.838717,34,28,37100,6,38,B
+Tondeuse agricole,6,15,bon état,2024-04-20 17:50:08.838721,72,20,22260,11,10,B
+Moissonneuse,4,14,bon état,2024-04-29 17:50:08.838725,88,16,14840,14,7,B
+Semoir,7,16,bon état,2024-04-28 17:50:08.838728,10,20,25970,11,41,B
+Moissonneuse,12,16,besoin de réparation,2024-02-22 17:50:08.838732,82,44,44520,9,40,C
+Moissonneuse,13,11,besoin de maintenance,2024-03-16 17:50:08.838736,58,32,48230,3,30,C
+Semoir,6,14,bon état,2024-04-19 17:50:08.838740,44,24,22260,6,33,B
+Charrue,8,14,besoin de réparation,2024-02-10 17:50:08.838744,13,20,29680,10,46,B
+Tracteur,10,13,besoin de réparation,2024-02-17 17:50:08.838747,10,32,37100,5,17,C
+Charrue,5,15,besoin de réparation,2024-04-09 17:50:08.838756,61,12,18550,15,19,B
+Tondeuse agricole,11,13,besoin de réparation,2024-02-01 17:50:08.838760,23,31,40810,11,8,C
+Remorque agricole,6,15,bon état,2024-04-22 17:50:08.838763,12,24,22260,3,11,B
+Tracteur,13,12,besoin de réparation,2024-02-21 17:50:08.838767,23,42,48230,11,47,C
+Charrue,5,11,bon état,2024-04-27 17:50:08.838771,54,12,18550,10,30,B
+Remorque agricole,4,13,besoin de réparation,2024-04-01 17:50:08.838775,8,12,14840,18,41,B
+Tondeuse agricole,11,15,bon état,2024-04-26 17:50:08.838779,12,36,40810,13,26,B
+Remorque agricole,6,12,besoin de maintenance,2024-03-16 17:50:08.838782,4,17,22260,17,18,B
+Tondeuse agricole,7,10,besoin de maintenance,2024-03-08 17:50:08.838786,41,17,25970,13,39,B
+Charrue,5,15,besoin de réparation,2024-04-02 17:50:08.838790,37,14,18550,8,7,B
+Semoir,9,16,bon état,2024-04-26 17:50:08.838794,70,29,33390,10,20,B
+Moissonneuse,6,10,besoin de maintenance,2024-03-14 17:50:08.838797,78,20,22260,14,11,B
+Charrue,6,10,besoin de réparation,2024-04-09 17:50:08.838801,77,24,22260,6,2,B
+Charrue,8,11,besoin de réparation,2024-02-07 17:50:08.838805,21,20,29680,2,45,B
+Charrue,7,11,besoin de maintenance,2024-03-13 17:50:08.838809,89,28,25970,15,44,B
+Charrue,7,13,besoin de réparation,2024-02-01 17:50:08.838812,45,23,25970,16,18,B
+Tracteur,9,15,bon état,2024-04-24 17:50:08.838816,79,33,33390,8,14,B
+Moissonneuse,10,10,besoin de réparation,2024-02-12 17:50:08.838820,18,20,37100,17,26,C
+Semoir,4,13,besoin de maintenance,2024-03-25 17:50:08.838824,77,13,14840,10,2,B
+Remorque agricole,7,13,besoin de maintenance,2024-03-15 17:50:08.838827,10,17,25970,13,34,B
+Remorque agricole,4,12,besoin de réparation,2024-04-02 17:50:08.838831,59,10,14840,16,16,B
+Tondeuse agricole,3,16,bon état,2024-04-18 17:50:08.838835,51,8,11130,2,12,A
+Tracteur,12,13,besoin de réparation,2024-01-31 17:50:08.838839,30,24,44520,2,22,C
+Charrue,13,12,besoin de réparation,2024-02-07 17:50:08.838842,21,47,48230,14,17,C
+Semoir,9,12,besoin de réparation,2024-02-26 17:50:08.838846,61,18,33390,14,3,C
+Remorque agricole,6,14,besoin de réparation,2024-04-07 17:50:08.838850,47,24,22260,7,41,B
+Tondeuse agricole,6,10,bon état,2024-04-19 17:50:08.838855,3,12,22260,4,25,B
+Moissonneuse,12,15,bon état,2024-04-29 17:50:08.838859,36,29,44520,7,20,C
+Charrue,10,15,bon état,2024-04-22 17:50:08.838863,16,28,37100,8,12,B
+Tracteur,8,13,bon état,2024-04-29 17:50:08.838867,9,23,29680,9,39,B
+Moissonneuse,11,10,bon état,2024-04-24 17:50:08.838870,66,27,40810,3,29,C
+Tracteur,7,14,besoin de maintenance,2024-03-13 17:50:08.838874,72,17,25970,7,48,B
+Tondeuse agricole,10,11,besoin de maintenance,2024-03-26 17:50:08.838878,45,20,37100,14,5,C
+Remorque agricole,9,16,besoin de maintenance,2024-03-06 17:50:08.838882,4,33,33390,8,12,B
+Charrue,13,13,besoin de réparation,2024-02-11 17:50:08.838886,61,47,48230,7,33,C
+Semoir,9,10,bon état,2024-04-24 17:50:08.838890,61,29,33390,11,31,C
+Remorque agricole,10,13,besoin de maintenance,2024-03-31 17:50:08.838894,56,24,37100,7,7,C
+Remorque agricole,5,12,besoin de réparation,2024-04-09 17:50:08.838898,90,10,18550,6,47,B
+Remorque agricole,11,14,bon état,2024-04-23 17:50:08.838902,61,36,40810,16,24,C
+Charrue,9,12,bon état,2024-04-15 17:50:08.838906,36,36,33390,5,46,C
+Remorque agricole,6,11,bon état,2024-04-26 17:50:08.838910,84,12,22260,14,45,B
+Tracteur,3,11,besoin de réparation,2024-04-11 17:50:08.838914,46,9,11130,13,17,B
+Moissonneuse,10,10,besoin de maintenance,2024-03-16 17:50:08.838917,12,32,37100,8,28,C
+Remorque agricole,10,11,besoin de maintenance,2024-03-19 17:50:08.838921,71,40,37100,9,32,C
+Remorque agricole,8,15,besoin de réparation,2024-02-06 17:50:08.838925,25,20,29680,5,13,B
+Semoir,8,15,besoin de réparation,2024-02-20 17:50:08.838929,18,29,29680,2,4,B
+Remorque agricole,8,12,bon état,2024-04-23 17:50:08.838932,48,16,29680,12,9,B
+Charrue,6,14,besoin de maintenance,2024-03-21 17:50:08.838936,80,20,22260,12,34,B
+Charrue,9,13,bon état,2024-04-15 17:50:08.838940,48,29,33390,12,41,B
+Semoir,3,12,bon état,2024-04-15 17:50:08.838944,42,11,11130,16,26,B
+Tracteur,10,11,besoin de maintenance,2024-03-24 17:50:08.838947,7,20,37100,9,28,C
+Moissonneuse,9,16,besoin de maintenance,2024-03-07 17:50:08.838951,86,29,33390,13,10,B
+Charrue,10,12,bon état,2024-04-26 17:50:08.838955,40,24,37100,10,24,C
+Charrue,11,13,besoin de réparation,2024-02-26 17:50:08.838959,66,44,40810,10,14,C
+Tracteur,8,11,bon état,2024-04-16 17:50:08.838963,44,29,29680,16,23,B
+Charrue,12,11,bon état,2024-04-22 17:50:08.838966,17,34,44520,2,46,C
+Remorque agricole,11,16,bon état,2024-04-29 17:50:08.838970,21,22,40810,5,48,B
+Moissonneuse,13,16,besoin de réparation,2024-02-13 17:50:08.838974,37,26,48230,7,44,C
+Charrue,6,14,besoin de maintenance,2024-03-10 17:50:08.838978,73,20,22260,12,11,B
+Moissonneuse,5,12,besoin de réparation,2024-04-02 17:50:08.838982,90,14,18550,9,25,B
+Tondeuse agricole,7,11,besoin de maintenance,2024-03-12 17:50:08.838986,30,23,25970,14,16,B
+Charrue,13,10,besoin de réparation,2024-02-29 17:50:08.838990,75,26,48230,2,9,C
+Semoir,3,13,bon état,2024-04-23 17:50:08.838994,6,8,11130,8,22,A
+Moissonneuse,12,12,besoin de réparation,2024-02-22 17:50:08.838997,36,34,44520,12,20,C
+Moissonneuse,5,11,bon état,2024-04-25 17:50:08.839001,23,12,18550,8,22,B
+Tracteur,11,10,besoin de réparation,2024-02-29 17:50:08.839005,15,22,40810,4,34,C
+Semoir,3,14,besoin de maintenance,2024-03-27 17:50:08.839010,41,11,11130,17,34,B
+Remorque agricole,5,14,besoin de maintenance,2024-03-01 17:50:08.839014,19,12,18550,12,5,B
+Semoir,11,16,besoin de maintenance,2024-03-24 17:50:08.839018,33,36,40810,4,2,B
+Tracteur,8,11,besoin de maintenance,2024-03-09 17:50:08.839022,1,26,29680,3,32,B
+Moissonneuse,6,15,bon état,2024-04-16 17:50:08.839026,65,20,22260,12,13,B
+Tracteur,4,15,besoin de maintenance,2024-03-11 17:50:08.839029,13,8,14840,7,48,B
+Charrue,4,12,besoin de réparation,2024-04-08 17:50:08.839033,17,10,14840,3,12,B
+Tracteur,9,11,bon état,2024-04-25 17:50:08.839037,69,22,33390,18,25,C
+Tondeuse agricole,9,16,besoin de maintenance,2024-03-29 17:50:08.839041,37,36,33390,2,17,B
+Remorque agricole,12,15,besoin de maintenance,2024-03-22 17:50:08.839045,52,39,44520,7,35,C
+Charrue,11,12,besoin de réparation,2024-02-09 17:50:08.839048,79,44,40810,15,2,C
+Remorque agricole,4,16,bon état,2024-04-24 17:50:08.839052,57,8,14840,12,9,A
+Charrue,7,11,besoin de maintenance,2024-03-12 17:50:08.839056,58,26,25970,17,43,B
+Tondeuse agricole,11,14,besoin de réparation,2024-02-21 17:50:08.839060,65,44,40810,3,10,C
+Tracteur,6,13,besoin de réparation,2024-04-10 17:50:08.839064,38,20,22260,14,16,B
+Tondeuse agricole,5,13,besoin de réparation,2024-04-09 17:50:08.839068,14,12,18550,18,7,B
+Remorque agricole,13,10,besoin de réparation,2024-02-12 17:50:08.839072,87,37,48230,4,37,C
+Charrue,4,10,bon état,2024-04-23 17:50:08.839076,44,13,14840,14,15,B
+Tondeuse agricole,6,15,besoin de maintenance,2024-03-17 17:50:08.839080,74,20,22260,15,22,B
+Tondeuse agricole,3,15,bon état,2024-04-17 17:50:08.839084,7,6,11130,15,42,A
+Semoir,4,13,besoin de réparation,2024-04-11 17:50:08.839088,41,13,14840,18,16,B
+Remorque agricole,6,14,besoin de réparation,2024-04-06 17:50:08.839092,89,15,22260,2,40,B
+Tondeuse agricole,4,14,besoin de maintenance,2024-03-13 17:50:08.839096,70,8,14840,10,36,B
+Semoir,13,11,bon état,2024-04-15 17:50:08.839099,64,32,48230,5,10,C
+Semoir,12,10,besoin de réparation,2024-02-01 17:50:08.839103,35,29,44520,16,6,C
+Tondeuse agricole,12,15,besoin de réparation,2024-02-06 17:50:08.839107,50,29,44520,4,29,C
+Semoir,8,15,besoin de réparation,2024-02-08 17:50:08.839111,58,16,29680,10,29,B
+Remorque agricole,3,10,besoin de réparation,2024-04-15 17:50:08.839115,16,9,11130,5,16,B
+Moissonneuse,8,13,bon état,2024-04-27 17:50:08.839119,65,16,29680,18,30,B
+Tracteur,11,11,besoin de maintenance,2024-03-26 17:50:08.839122,27,40,40810,3,4,C
+Tracteur,4,16,besoin de réparation,2024-04-14 17:50:08.839126,75,15,14840,12,26,B
+Charrue,5,11,besoin de maintenance,2024-03-11 17:50:08.839130,28,14,18550,11,11,B
+Remorque agricole,5,16,bon état,2024-04-27 17:50:08.839134,81,10,18550,10,15,B
+Remorque agricole,6,12,besoin de réparation,2024-04-14 17:50:08.839157,2,20,22260,18,11,B
+Remorque agricole,6,10,bon état,2024-04-26 17:50:08.839162,63,20,22260,15,28,B
+Tondeuse agricole,8,11,besoin de maintenance,2024-03-30 17:50:08.839167,72,23,29680,11,22,B
+Remorque agricole,9,13,besoin de maintenance,2024-03-24 17:50:08.839171,49,36,33390,5,20,B
+Semoir,13,12,besoin de réparation,2024-02-07 17:50:08.839175,77,47,48230,14,23,C
+Remorque agricole,3,12,besoin de maintenance,2024-03-19 17:50:08.839180,45,6,11130,2,14,B
+Moissonneuse,11,16,besoin de réparation,2024-02-22 17:50:08.839184,15,27,40810,7,23,B
+Semoir,7,10,bon état,2024-04-24 17:50:08.839190,8,28,25970,11,36,B
+Moissonneuse,3,14,besoin de réparation,2024-04-04 17:50:08.839194,1,10,11130,6,29,B
+Semoir,13,10,besoin de réparation,2024-03-01 17:50:08.839197,43,26,48230,2,37,C
+Remorque agricole,9,10,bon état,2024-04-25 17:50:08.839201,49,22,33390,17,48,C
+Tracteur,11,12,besoin de maintenance,2024-03-06 17:50:08.839205,10,36,40810,9,36,C
+Charrue,12,13,besoin de réparation,2024-02-29 17:50:08.839209,33,24,44520,18,15,C
+Charrue,3,10,besoin de maintenance,2024-03-06 17:50:08.839213,26,11,11130,18,38,B
+Remorque agricole,3,15,besoin de maintenance,2024-03-03 17:50:08.839217,23,11,11130,2,30,B
+Tracteur,9,12,besoin de réparation,2024-01-31 17:50:08.839221,31,18,33390,12,12,C
+Moissonneuse,5,16,besoin de maintenance,2024-03-06 17:50:08.839225,10,20,18550,15,47,B
+Tracteur,3,16,besoin de maintenance,2024-03-13 17:50:08.839229,83,9,11130,7,14,B
+Remorque agricole,13,14,besoin de réparation,2024-02-12 17:50:08.839232,12,52,48230,14,39,C
+Remorque agricole,13,14,besoin de maintenance,2024-03-13 17:50:08.839236,22,26,48230,11,40,C
+Remorque agricole,8,12,bon état,2024-04-16 17:50:08.839240,9,29,29680,17,18,B
+Charrue,9,16,bon état,2024-04-15 17:50:08.839244,15,36,33390,13,20,B
+Semoir,8,14,bon état,2024-04-18 17:50:08.839249,73,29,29680,17,34,B
+Tondeuse agricole,9,15,bon état,2024-04-26 17:50:08.839253,32,26,33390,11,41,B
+Charrue,8,10,bon état,2024-04-16 17:50:08.839257,26,16,29680,9,28,C
+Tracteur,11,13,bon état,2024-04-22 17:50:08.839261,84,44,40810,11,37,C
+Tondeuse agricole,13,11,bon état,2024-04-21 17:50:08.839265,17,32,48230,4,33,C
+Tracteur,9,15,besoin de réparation,2024-02-26 17:50:08.839269,67,22,33390,5,31,B
+Tracteur,10,15,besoin de réparation,2024-02-14 17:50:08.839273,23,28,37100,13,39,B
+Remorque agricole,9,15,besoin de maintenance,2024-03-26 17:50:08.839276,57,36,33390,11,48,B
+Charrue,12,15,besoin de réparation,2024-02-10 17:50:08.839280,47,48,44520,5,36,C
+Charrue,13,11,bon état,2024-04-18 17:50:08.839284,29,32,48230,13,22,C
+Remorque agricole,13,16,besoin de maintenance,2024-03-27 17:50:08.839288,56,32,48230,6,24,C
+Tracteur,5,11,besoin de maintenance,2024-03-11 17:50:08.839292,71,10,18550,15,24,B
+Tracteur,12,10,besoin de maintenance,2024-03-01 17:50:08.839297,27,48,44520,5,20,C
+Remorque agricole,12,15,besoin de maintenance,2024-03-01 17:50:08.839301,34,48,44520,4,3,C
+Tracteur,10,10,besoin de réparation,2024-02-26 17:50:08.839304,25,40,37100,4,15,C
+Tondeuse agricole,9,15,besoin de réparation,2024-02-13 17:50:08.839308,78,36,33390,5,16,B
+Semoir,13,16,besoin de réparation,2024-02-10 17:50:08.839312,84,26,48230,11,11,C
+Semoir,5,11,bon état,2024-04-28 17:50:08.839316,65,12,18550,2,28,B
+Charrue,12,10,bon état,2024-04-19 17:50:08.839320,65,39,44520,8,24,C
+Moissonneuse,12,16,besoin de réparation,2024-02-11 17:50:08.839324,16,29,44520,3,38,C
+Charrue,7,12,besoin de maintenance,2024-03-29 17:50:08.839328,84,28,25970,7,22,B
+Tracteur,5,12,besoin de maintenance,2024-03-29 17:50:08.839332,74,10,18550,10,37,B
+Remorque agricole,6,16,bon état,2024-04-16 17:50:08.839336,85,12,22260,3,38,B
+Remorque agricole,5,14,bon état,2024-04-22 17:50:08.839340,15,20,18550,17,32,B
+Tracteur,10,12,besoin de réparation,2024-02-17 17:50:08.839343,83,40,37100,8,2,C
+Tondeuse agricole,8,13,bon état,2024-04-17 17:50:08.839349,42,23,29680,5,22,B
+Tondeuse agricole,10,14,besoin de réparation,2024-02-15 17:50:08.839353,22,24,37100,5,31,B
+Moissonneuse,4,11,besoin de réparation,2024-04-15 17:50:08.839357,2,15,14840,11,43,B
+Remorque agricole,8,16,bon état,2024-04-29 17:50:08.839361,8,32,29680,14,22,B
+Semoir,4,15,besoin de maintenance,2024-03-20 17:50:08.839365,16,8,14840,13,33,B
+Tondeuse agricole,11,13,bon état,2024-04-21 17:50:08.839369,74,22,40810,8,45,C
+Remorque agricole,12,10,besoin de maintenance,2024-03-29 17:50:08.839373,78,24,44520,8,32,C
+Tondeuse agricole,8,10,bon état,2024-04-20 17:50:08.839377,85,32,29680,16,4,C
+Semoir,9,15,bon état,2024-04-25 17:50:08.839381,5,18,33390,17,47,B
+Moissonneuse,6,13,besoin de maintenance,2024-03-05 17:50:08.839385,46,15,22260,14,13,B
+Semoir,4,14,bon état,2024-04-17 17:50:08.839389,60,13,14840,11,6,B
+Charrue,5,16,bon état,2024-04-18 17:50:08.839393,16,18,18550,18,47,B
+Tracteur,3,14,besoin de maintenance,2024-03-09 17:50:08.839397,48,6,11130,14,4,B
+Moissonneuse,10,10,bon état,2024-04-18 17:50:08.839400,10,32,37100,10,15,C
+Moissonneuse,9,14,bon état,2024-04-25 17:50:08.839404,28,18,33390,18,39,B
+Semoir,3,16,besoin de maintenance,2024-03-26 17:50:08.839408,39,9,11130,13,45,B
+Moissonneuse,9,15,besoin de réparation,2024-02-09 17:50:08.839412,84,36,33390,4,10,B
+Semoir,11,15,besoin de maintenance,2024-03-15 17:50:08.839415,51,44,40810,17,38,B
+Moissonneuse,4,16,bon état,2024-04-24 17:50:08.839420,67,12,14840,14,46,B
+Moissonneuse,12,13,besoin de réparation,2024-02-20 17:50:08.839424,10,34,44520,17,36,C
+Tondeuse agricole,3,15,bon état,2024-04-26 17:50:08.839428,17,12,11130,8,29,B
+Moissonneuse,9,14,bon état,2024-04-25 17:50:08.839432,12,36,33390,14,26,B
+Charrue,13,11,besoin de réparation,2024-02-16 17:50:08.839436,9,26,48230,17,18,C
+Tracteur,13,12,besoin de réparation,2024-02-18 17:50:08.839440,84,42,48230,17,8,C
+Tracteur,12,16,besoin de maintenance,2024-03-07 17:50:08.839443,45,29,44520,5,44,C
+Remorque agricole,9,16,besoin de maintenance,2024-03-22 17:50:08.839447,40,29,33390,3,22,B
+Semoir,7,12,besoin de réparation,2024-02-01 17:50:08.839451,36,26,25970,7,33,B
+Tracteur,3,14,besoin de maintenance,2024-03-15 17:50:08.839455,70,8,11130,11,27,B
+Semoir,9,12,bon état,2024-04-20 17:50:08.839459,33,18,33390,12,13,C
+Moissonneuse,11,11,besoin de réparation,2024-02-23 17:50:08.839462,41,36,40810,8,30,C
+Semoir,3,13,bon état,2024-04-22 17:50:08.839466,68,8,11130,11,24,A
+Semoir,3,14,besoin de maintenance,2024-03-04 17:50:08.839470,64,11,11130,6,25,B
+Moissonneuse,11,14,bon état,2024-04-25 17:50:08.839474,24,40,40810,2,9,C
+Semoir,5,16,besoin de maintenance,2024-03-04 17:50:08.839478,22,16,18550,3,15,B
+Semoir,11,16,bon état,2024-04-17 17:50:08.839482,36,22,40810,7,36,B
+Semoir,10,16,bon état,2024-04-24 17:50:08.839485,11,32,37100,8,29,B
+Charrue,3,14,besoin de réparation,2024-04-15 17:50:08.839489,53,6,11130,8,2,B
+Tondeuse agricole,8,14,besoin de maintenance,2024-03-30 17:50:08.839494,16,23,29680,3,13,B
+Charrue,8,14,besoin de réparation,2024-02-24 17:50:08.839497,74,20,29680,18,2,B
+Tondeuse agricole,4,11,besoin de réparation,2024-04-02 17:50:08.839502,76,8,14840,9,47,B
+Charrue,5,14,besoin de maintenance,2024-03-13 17:50:08.839507,76,16,18550,14,29,B
+Tracteur,6,11,bon état,2024-04-26 17:50:08.839510,51,20,22260,6,38,B
+Moissonneuse,3,10,besoin de maintenance,2024-03-01 17:50:08.839514,83,10,11130,15,43,B
+Tracteur,3,12,besoin de réparation,2024-03-31 17:50:08.839518,72,6,11130,13,2,B
+Remorque agricole,7,13,bon état,2024-04-20 17:50:08.839522,73,23,25970,5,10,B
+Semoir,7,13,bon état,2024-04-29 17:50:08.839526,39,28,25970,10,22,B
+Remorque agricole,3,15,bon état,2024-04-23 17:50:08.839529,1,12,11130,5,18,B
+Moissonneuse,6,12,besoin de réparation,2024-04-12 17:50:08.839533,4,24,22260,10,26,B
+Tondeuse agricole,4,15,besoin de réparation,2024-04-11 17:50:08.839537,39,8,14840,15,9,B
+Moissonneuse,10,13,besoin de réparation,2024-02-01 17:50:08.839541,70,32,37100,15,4,C
+Moissonneuse,7,12,besoin de maintenance,2024-03-25 17:50:08.839544,42,28,25970,11,17,B
+Charrue,6,15,bon état,2024-04-17 17:50:08.839548,20,24,22260,3,34,B
+Semoir,4,16,bon état,2024-04-20 17:50:08.839552,85,13,14840,14,37,B
+Remorque agricole,3,13,bon état,2024-04-16 17:50:08.839556,22,11,11130,4,3,B
+Charrue,10,16,besoin de réparation,2024-02-17 17:50:08.839560,7,36,37100,13,41,B
+Remorque agricole,5,11,bon état,2024-04-19 17:50:08.839563,45,18,18550,8,14,B
+Tracteur,7,10,besoin de maintenance,2024-03-03 17:50:08.839567,84,26,25970,14,18,B
+Charrue,8,13,besoin de réparation,2024-02-24 17:50:08.839571,85,16,29680,11,36,B
+Remorque agricole,13,13,besoin de maintenance,2024-03-31 17:50:08.839575,9,52,48230,8,44,C
+Charrue,5,14,bon état,2024-04-27 17:50:08.839579,78,14,18550,6,3,B
+Charrue,5,16,bon état,2024-04-19 17:50:08.839582,81,10,18550,6,14,B
+Moissonneuse,6,14,bon état,2024-04-16 17:50:08.839586,1,17,22260,16,29,B
+Charrue,7,15,besoin de réparation,2024-02-20 17:50:08.839590,54,23,25970,13,23,B
+Semoir,13,14,besoin de maintenance,2024-03-04 17:50:08.839594,55,26,48230,9,25,C
+Moissonneuse,5,15,besoin de réparation,2024-04-12 17:50:08.839598,58,20,18550,4,10,B
+Charrue,12,12,besoin de maintenance,2024-03-20 17:50:08.839602,62,34,44520,17,44,C
+Charrue,10,15,besoin de réparation,2024-02-06 17:50:08.839606,18,28,37100,13,10,B
+Tracteur,13,12,besoin de maintenance,2024-03-16 17:50:08.839610,58,26,48230,8,28,C
+Charrue,4,15,besoin de réparation,2024-04-04 17:50:08.839613,71,13,14840,15,35,B
+Tracteur,7,11,besoin de réparation,2024-02-11 17:50:08.839617,26,23,25970,16,43,B
+Moissonneuse,4,15,bon état,2024-04-17 17:50:08.839621,6,8,14840,7,21,A
+Charrue,4,14,besoin de maintenance,2024-03-12 17:50:08.839625,35,12,14840,13,3,B
+Tondeuse agricole,6,11,besoin de maintenance,2024-03-16 17:50:08.839628,1,20,22260,3,46,B
+Tondeuse agricole,8,11,bon état,2024-04-26 17:50:08.839632,13,23,29680,7,47,B
+Semoir,13,11,besoin de réparation,2024-02-02 17:50:08.839636,17,32,48230,4,36,C
+Tondeuse agricole,3,10,besoin de maintenance,2024-03-05 17:50:08.839640,26,11,11130,8,17,B
+Remorque agricole,11,13,besoin de maintenance,2024-03-11 17:50:08.839644,35,31,40810,2,48,C
+Tracteur,6,13,besoin de maintenance,2024-03-09 17:50:08.839648,72,12,22260,14,25,B
+Tracteur,10,14,besoin de maintenance,2024-03-03 17:50:08.839651,83,36,37100,4,47,B
+Charrue,8,16,besoin de maintenance,2024-03-05 17:50:08.839655,49,20,29680,15,26,B
+Remorque agricole,11,11,besoin de maintenance,2024-03-20 17:50:08.839660,36,27,40810,4,8,C
+Tracteur,7,14,besoin de maintenance,2024-03-26 17:50:08.839664,70,26,25970,16,8,B
+Charrue,11,14,besoin de maintenance,2024-03-20 17:50:08.839668,1,31,40810,3,23,C
+Tracteur,5,15,besoin de maintenance,2024-03-16 17:50:08.839672,74,12,18550,16,40,B
+Moissonneuse,9,16,besoin de réparation,2024-02-05 17:50:08.839676,10,26,33390,7,26,B
+Tondeuse agricole,11,11,besoin de réparation,2024-02-14 17:50:08.839680,54,44,40810,17,35,C
+Tondeuse agricole,9,15,bon état,2024-04-23 17:50:08.839683,90,26,33390,11,5,B
+Tracteur,10,12,besoin de maintenance,2024-03-23 17:50:08.839687,25,20,37100,14,41,C
+Tracteur,4,10,besoin de réparation,2024-04-11 17:50:08.839692,20,8,14840,11,22,B
+Tondeuse agricole,7,12,bon état,2024-04-18 17:50:08.839696,70,14,25970,5,14,B
+Semoir,3,10,bon état,2024-04-15 17:50:08.839700,33,9,11130,8,7,A
+Charrue,11,15,besoin de maintenance,2024-03-04 17:50:08.839703,30,44,40810,5,46,B
+Remorque agricole,12,10,besoin de maintenance,2024-03-26 17:50:08.839707,65,34,44520,3,27,C
+Moissonneuse,7,11,besoin de maintenance,2024-03-29 17:50:08.839711,67,23,25970,15,39,B
+Charrue,4,12,besoin de maintenance,2024-03-10 17:50:08.839715,75,16,14840,12,26,B
+Remorque agricole,7,14,besoin de maintenance,2024-03-31 17:50:08.839719,65,23,25970,4,27,B
+Moissonneuse,8,16,besoin de réparation,2024-03-01 17:50:08.839723,8,26,29680,4,44,B
+Moissonneuse,3,16,besoin de réparation,2024-04-10 17:50:08.839726,57,11,11130,12,23,B
+Semoir,13,12,besoin de réparation,2024-02-03 17:50:08.839730,25,42,48230,13,44,C
+Semoir,10,12,besoin de maintenance,2024-03-02 17:50:08.839734,81,32,37100,10,43,C
+Moissonneuse,8,10,besoin de maintenance,2024-03-29 17:50:08.839737,58,20,29680,11,26,C
+Remorque agricole,6,12,bon état,2024-04-16 17:50:08.839741,54,20,22260,13,34,B
+Remorque agricole,11,12,bon état,2024-04-25 17:50:08.839745,3,31,40810,14,38,C
+Tracteur,8,16,besoin de réparation,2024-02-27 17:50:08.839749,41,26,29680,11,48,B
+Tondeuse agricole,4,16,besoin de réparation,2024-04-03 17:50:08.839752,33,15,14840,5,43,B
+Remorque agricole,5,15,besoin de maintenance,2024-03-06 17:50:08.839756,36,18,18550,17,41,B
+Charrue,5,11,besoin de maintenance,2024-03-01 17:50:08.839760,11,12,18550,13,35,B
+Tracteur,7,12,besoin de maintenance,2024-03-15 17:50:08.839764,75,20,25970,10,48,B
+Tondeuse agricole,6,11,besoin de réparation,2024-04-14 17:50:08.839768,16,15,22260,2,19,B
+Moissonneuse,9,15,bon état,2024-04-26 17:50:08.839773,62,29,33390,5,21,B
+Charrue,13,12,besoin de réparation,2024-02-13 17:50:08.839777,75,37,48230,17,42,C
+Tracteur,5,12,besoin de maintenance,2024-03-21 17:50:08.839781,44,16,18550,2,14,B
+Charrue,11,12,besoin de réparation,2024-02-26 17:50:08.839784,83,44,40810,14,15,C
+Tondeuse agricole,8,14,besoin de réparation,2024-02-23 17:50:08.839788,67,16,29680,6,3,B
+Remorque agricole,8,12,besoin de maintenance,2024-03-07 17:50:08.839792,87,32,29680,10,3,B
+Semoir,11,10,bon état,2024-04-29 17:50:08.839796,41,27,40810,15,41,C
+Moissonneuse,13,15,besoin de réparation,2024-02-24 17:50:08.839800,70,26,48230,4,48,C
+Semoir,6,11,besoin de réparation,2024-04-07 17:50:08.839803,65,20,22260,7,35,B
+Semoir,7,15,besoin de maintenance,2024-03-18 17:50:08.839807,21,20,25970,7,20,B
+Semoir,6,13,besoin de maintenance,2024-03-17 17:50:08.839811,28,22,22260,8,44,B
+Remorque agricole,9,14,bon état,2024-04-24 17:50:08.839816,67,36,33390,6,36,B
+Charrue,5,11,bon état,2024-04-24 17:50:08.839820,11,12,18550,14,38,B
+Charrue,10,11,besoin de réparation,2024-02-12 17:50:08.839824,15,24,37100,9,35,C
+Moissonneuse,12,12,bon état,2024-04-16 17:50:08.839827,65,34,44520,15,46,C
+Tracteur,4,13,bon état,2024-04-26 17:50:08.839831,85,16,14840,2,40,B
+Semoir,7,11,bon état,2024-04-22 17:50:08.839835,52,28,25970,5,14,B
+Moissonneuse,9,10,besoin de maintenance,2024-03-03 17:50:08.839839,8,33,33390,13,20,C
+Semoir,7,10,besoin de maintenance,2024-03-02 17:50:08.839843,25,26,25970,18,19,B
+Tracteur,8,11,bon état,2024-04-29 17:50:08.839848,24,32,29680,2,24,B
+Tondeuse agricole,10,10,bon état,2024-04-20 17:50:08.839852,11,32,37100,3,6,C
+Tondeuse agricole,12,12,besoin de maintenance,2024-03-07 17:50:08.839856,14,48,44520,5,33,C
+Semoir,3,10,besoin de maintenance,2024-03-23 17:50:08.839859,75,11,11130,16,35,B
+Charrue,7,13,bon état,2024-04-18 17:50:08.839863,19,20,25970,10,31,B
+Moissonneuse,5,15,bon état,2024-04-15 17:50:08.839867,38,20,18550,15,46,B
+Moissonneuse,12,12,bon état,2024-04-22 17:50:08.839871,63,34,44520,3,28,C
+Remorque agricole,10,11,besoin de réparation,2024-02-06 17:50:08.839875,47,40,37100,4,36,C
+Tracteur,7,11,besoin de maintenance,2024-03-13 17:50:08.839878,87,20,25970,15,17,B
+Tondeuse agricole,5,11,besoin de maintenance,2024-03-24 17:50:08.839882,49,18,18550,17,14,B
+Tracteur,3,15,bon état,2024-04-22 17:50:08.839886,90,8,11130,16,25,A
+Charrue,12,15,bon état,2024-04-18 17:50:08.839891,24,39,44520,13,45,C
+Tracteur,13,12,besoin de maintenance,2024-03-17 17:50:08.839896,59,32,48230,11,3,C
+Charrue,8,15,besoin de réparation,2024-02-11 17:50:08.839900,85,29,29680,11,2,B
+Remorque agricole,9,13,besoin de réparation,2024-02-23 17:50:08.839904,13,18,33390,15,9,B
+Remorque agricole,4,12,bon état,2024-04-28 17:50:08.839907,19,16,14840,9,48,B
+Charrue,5,12,besoin de réparation,2024-04-04 17:50:08.839912,89,14,18550,13,17,B
+Charrue,13,14,bon état,2024-04-20 17:50:08.839916,86,32,48230,11,25,C
+Tracteur,6,13,bon état,2024-04-21 17:50:08.839920,65,12,22260,7,45,B
+Tondeuse agricole,6,10,besoin de réparation,2024-04-06 17:50:08.839924,46,22,22260,9,48,B
+Semoir,5,16,bon état,2024-04-28 17:50:08.839928,6,16,18550,10,43,B
+Tracteur,6,10,bon état,2024-04-28 17:50:08.839932,57,17,22260,5,44,B
+Charrue,10,10,besoin de réparation,2024-02-28 17:50:08.839935,51,24,37100,10,18,C
+Semoir,3,16,bon état,2024-04-23 17:50:08.839939,58,9,11130,3,38,A
+Moissonneuse,12,11,bon état,2024-04-18 17:50:08.839943,67,44,44520,17,31,C
+Tracteur,7,10,bon état,2024-04-15 17:50:08.839946,72,17,25970,8,29,B
+Charrue,4,13,besoin de maintenance,2024-03-29 17:50:08.839950,8,12,14840,10,22,B
+Semoir,8,11,besoin de maintenance,2024-03-27 17:50:08.839954,65,29,29680,8,33,B
+Tracteur,3,15,besoin de réparation,2024-04-03 17:50:08.839958,32,10,11130,12,23,B
+Moissonneuse,3,11,besoin de maintenance,2024-03-26 17:50:08.839962,36,9,11130,6,33,B
+Tondeuse agricole,11,14,bon état,2024-04-18 17:50:08.839966,1,31,40810,4,41,C
+Moissonneuse,4,14,besoin de maintenance,2024-03-17 17:50:08.839969,3,15,14840,15,8,B
+Semoir,5,10,bon état,2024-04-21 17:50:08.839974,47,14,18550,12,8,B
+Tracteur,13,12,besoin de maintenance,2024-03-25 17:50:08.839978,35,32,48230,16,32,C
+Charrue,13,12,besoin de réparation,2024-02-13 17:50:08.839982,48,47,48230,6,47,C
+Moissonneuse,5,11,besoin de réparation,2024-04-03 17:50:08.839986,39,16,18550,7,47,B
+Tondeuse agricole,11,12,bon état,2024-04-19 17:50:08.839990,73,36,40810,4,3,C
+Tondeuse agricole,10,13,bon état,2024-04-17 17:50:08.839993,75,28,37100,11,30,C
+Remorque agricole,3,14,besoin de maintenance,2024-03-10 17:50:08.839997,72,12,11130,10,43,B
+Semoir,6,10,besoin de réparation,2024-04-10 17:50:08.840001,5,24,22260,5,14,B
+Tracteur,8,16,besoin de maintenance,2024-03-10 17:50:08.840005,88,32,29680,14,27,B
+Charrue,10,12,besoin de maintenance,2024-03-30 17:50:08.840009,85,20,37100,2,2,C
+Semoir,12,16,besoin de maintenance,2024-03-26 17:50:08.840013,15,39,44520,11,18,C
+Remorque agricole,6,12,bon état,2024-04-20 17:50:08.840016,63,17,22260,7,23,B
+Moissonneuse,8,14,besoin de maintenance,2024-03-24 17:50:08.840020,51,29,29680,14,21,B
+Charrue,12,11,besoin de réparation,2024-02-08 17:50:08.840024,60,24,44520,16,18,C
+Semoir,4,13,besoin de maintenance,2024-03-11 17:50:08.840028,13,10,14840,13,26,B
+Moissonneuse,5,16,besoin de réparation,2024-03-31 17:50:08.840032,37,12,18550,18,9,B
+Semoir,7,13,besoin de réparation,2024-03-01 17:50:08.840036,37,26,25970,18,5,B
+Tondeuse agricole,9,15,besoin de maintenance,2024-03-07 17:50:08.840039,90,33,33390,14,20,B
+Remorque agricole,8,10,bon état,2024-04-20 17:50:08.840043,89,20,29680,14,25,C
+Semoir,9,16,bon état,2024-04-22 17:50:08.840047,6,36,33390,10,15,B
+Semoir,12,16,bon état,2024-04-16 17:50:08.840051,8,39,44520,7,39,C
+Remorque agricole,9,16,besoin de maintenance,2024-03-02 17:50:08.840055,77,36,33390,13,30,B
+Tracteur,5,12,besoin de maintenance,2024-03-10 17:50:08.840059,38,14,18550,12,34,B
+Tracteur,13,16,besoin de réparation,2024-02-15 17:50:08.840062,56,52,48230,11,35,C
+Charrue,7,10,bon état,2024-04-17 17:50:08.840066,89,23,25970,16,33,B
+Remorque agricole,10,14,besoin de maintenance,2024-03-04 17:50:08.840070,84,28,37100,6,35,B
+Moissonneuse,3,15,besoin de maintenance,2024-03-08 17:50:08.840074,14,12,11130,7,13,B
+Tracteur,5,11,besoin de maintenance,2024-03-02 17:50:08.840077,22,16,18550,18,26,B
+Tracteur,9,11,besoin de maintenance,2024-03-14 17:50:08.840081,62,22,33390,14,23,C
+Remorque agricole,6,15,besoin de maintenance,2024-03-08 17:50:08.840085,75,24,22260,11,9,B
+Tondeuse agricole,11,16,besoin de maintenance,2024-03-19 17:50:08.840090,77,22,40810,2,48,B
+Tondeuse agricole,12,11,besoin de maintenance,2024-03-28 17:50:08.840093,44,29,44520,17,24,C
+Remorque agricole,9,12,besoin de réparation,2024-02-14 17:50:08.840097,13,18,33390,12,38,C
+Remorque agricole,4,10,bon état,2024-04-26 17:50:08.840101,20,16,14840,7,44,B
+Tondeuse agricole,11,11,besoin de maintenance,2024-03-16 17:50:08.840105,45,44,40810,9,4,C
+Remorque agricole,3,15,besoin de réparation,2024-04-10 17:50:08.840109,55,10,11130,13,13,B
+Tracteur,4,15,besoin de maintenance,2024-03-24 17:50:08.840113,36,13,14840,17,5,B
+Charrue,10,12,bon état,2024-04-15 17:50:08.840117,71,40,37100,13,16,C
+Charrue,7,14,bon état,2024-04-15 17:50:08.840120,66,14,25970,2,2,B
+Moissonneuse,9,11,besoin de réparation,2024-02-24 17:50:08.840124,38,26,33390,18,6,C
+Semoir,12,14,bon état,2024-04-16 17:50:08.840130,63,39,44520,15,9,C
+Semoir,8,13,besoin de maintenance,2024-03-08 17:50:08.840133,36,16,29680,17,35,B
+Moissonneuse,6,15,besoin de maintenance,2024-03-13 17:50:08.840137,65,20,22260,16,22,B
+Charrue,10,15,besoin de maintenance,2024-03-07 17:50:08.840141,72,28,37100,8,18,B
+Remorque agricole,7,10,besoin de réparation,2024-02-02 17:50:08.840144,1,20,25970,18,43,B
+Remorque agricole,3,15,besoin de réparation,2024-04-07 17:50:08.840149,62,6,11130,2,33,B
+Remorque agricole,3,16,bon état,2024-04-20 17:50:08.840153,12,9,11130,18,27,A
+Moissonneuse,3,16,besoin de maintenance,2024-03-19 17:50:08.840156,4,6,11130,4,12,B
+Semoir,4,10,besoin de réparation,2024-04-08 17:50:08.840160,82,16,14840,18,13,B
+Tondeuse agricole,8,12,besoin de maintenance,2024-03-08 17:50:08.840164,48,26,29680,9,19,B
+Tondeuse agricole,11,15,besoin de maintenance,2024-03-20 17:50:08.840168,51,31,40810,6,37,B
+Remorque agricole,5,15,besoin de maintenance,2024-03-23 17:50:08.840171,68,12,18550,12,47,B
+Charrue,8,12,besoin de maintenance,2024-03-06 17:50:08.840175,63,26,29680,9,30,B
+Moissonneuse,9,16,besoin de maintenance,2024-03-22 17:50:08.840179,21,36,33390,7,41,B
+Remorque agricole,5,16,bon état,2024-04-17 17:50:08.840183,66,16,18550,17,19,B
+Charrue,9,13,bon état,2024-04-28 17:50:08.840187,30,22,33390,16,30,B
+Charrue,11,10,besoin de réparation,2024-02-02 17:50:08.840190,1,40,40810,15,33,C
+Charrue,9,13,besoin de maintenance,2024-03-28 17:50:08.840194,50,36,33390,11,8,B
+Tracteur,12,15,besoin de maintenance,2024-03-26 17:50:08.840198,30,24,44520,14,27,C
+Tracteur,11,16,besoin de réparation,2024-02-04 17:50:08.840202,57,44,40810,2,19,B
+Tondeuse agricole,13,16,besoin de réparation,2024-01-31 17:50:08.840206,47,47,48230,7,20,C
+Tracteur,9,12,besoin de maintenance,2024-03-29 17:50:08.840209,51,26,33390,14,4,C
+Tondeuse agricole,8,13,besoin de réparation,2024-02-03 17:50:08.840213,52,23,29680,15,14,B
+Remorque agricole,9,12,besoin de réparation,2024-02-25 17:50:08.840217,36,29,33390,10,17,C
+Semoir,10,13,bon état,2024-04-29 17:50:08.840221,51,36,37100,4,7,C
+Semoir,6,10,besoin de maintenance,2024-03-25 17:50:08.840225,33,12,22260,11,47,B
+Remorque agricole,10,15,bon état,2024-04-19 17:50:08.840228,37,36,37100,17,33,B
+Tracteur,5,16,besoin de maintenance,2024-03-02 17:50:08.840232,43,16,18550,17,39,B
+Tracteur,12,15,besoin de réparation,2024-03-01 17:50:08.840236,71,44,44520,12,6,C
+Tracteur,6,16,besoin de maintenance,2024-03-28 17:50:08.840240,50,12,22260,6,19,B
+Tondeuse agricole,11,12,bon état,2024-04-24 17:50:08.840244,81,40,40810,14,20,C
+Tracteur,4,13,besoin de réparation,2024-04-15 17:50:08.840247,61,10,14840,16,41,B
+Tondeuse agricole,13,10,besoin de réparation,2024-02-19 17:50:08.840251,25,26,48230,16,35,C
+Tracteur,12,10,bon état,2024-04-17 17:50:08.840255,76,24,44520,2,24,C
+Tracteur,12,16,bon état,2024-04-24 17:50:08.840259,51,44,44520,12,29,C
+Semoir,3,10,bon état,2024-04-29 17:50:08.840263,41,9,11130,8,23,A
+Remorque agricole,11,12,besoin de réparation,2024-02-10 17:50:08.840267,61,31,40810,7,11,C
+Moissonneuse,9,10,besoin de maintenance,2024-03-09 17:50:08.840271,65,33,33390,18,32,C
+Semoir,5,12,bon état,2024-04-23 17:50:08.840275,22,12,18550,8,7,B
+Remorque agricole,5,11,besoin de réparation,2024-04-14 17:50:08.840279,73,12,18550,15,41,B
+Tracteur,7,14,bon état,2024-04-17 17:50:08.840284,1,14,25970,18,18,B
+Remorque agricole,12,14,besoin de maintenance,2024-03-17 17:50:08.840288,40,44,44520,13,38,C
+Moissonneuse,9,14,bon état,2024-04-15 17:50:08.840292,71,36,33390,10,18,B
+Tondeuse agricole,5,10,bon état,2024-04-23 17:50:08.840296,84,10,18550,4,18,B
+Charrue,6,12,besoin de réparation,2024-04-05 17:50:08.840300,29,20,22260,5,25,B
+Tondeuse agricole,12,13,besoin de maintenance,2024-03-15 17:50:08.840304,19,29,44520,17,26,C
+Moissonneuse,9,11,bon état,2024-04-27 17:50:08.840308,35,36,33390,14,47,C
+Tondeuse agricole,4,11,besoin de maintenance,2024-03-16 17:50:08.840313,17,13,14840,3,33,B
+Moissonneuse,7,16,besoin de maintenance,2024-03-21 17:50:08.840317,74,26,25970,14,9,B
+Charrue,9,10,besoin de maintenance,2024-03-10 17:50:08.840321,57,29,33390,12,14,C
+Tondeuse agricole,7,12,bon état,2024-04-24 17:50:08.840325,63,17,25970,3,31,B
+Charrue,10,11,besoin de réparation,2024-02-07 17:50:08.840329,78,40,37100,17,7,C
+Moissonneuse,12,14,bon état,2024-04-17 17:50:08.840332,27,34,44520,6,43,C
+Tondeuse agricole,10,14,besoin de réparation,2024-02-18 17:50:08.840336,25,20,37100,8,26,B
+Moissonneuse,9,14,besoin de réparation,2024-02-25 17:50:08.840340,87,22,33390,18,42,B
+Charrue,10,10,bon état,2024-04-27 17:50:08.840344,69,24,37100,13,2,C
+Tracteur,12,13,besoin de maintenance,2024-03-16 17:50:08.840348,31,44,44520,13,11,C
+Tondeuse agricole,10,10,besoin de réparation,2024-02-03 17:50:08.840352,34,40,37100,14,2,C
+Tondeuse agricole,10,13,besoin de maintenance,2024-03-19 17:50:08.840355,22,36,37100,6,23,C
+Semoir,8,14,besoin de réparation,2024-03-01 17:50:08.840359,22,26,29680,13,35,B
+Charrue,8,12,besoin de maintenance,2024-03-30 17:50:08.840362,40,29,29680,11,29,B
+Charrue,3,12,besoin de maintenance,2024-03-08 17:50:08.840366,36,12,11130,13,19,B
+Moissonneuse,3,11,besoin de réparation,2024-04-06 17:50:08.840369,70,11,11130,7,33,B
+Tracteur,9,10,besoin de maintenance,2024-03-26 17:50:08.840373,66,29,33390,14,11,C
+Moissonneuse,3,12,besoin de réparation,2024-04-12 17:50:08.840377,46,11,11130,12,32,B
+Moissonneuse,4,13,bon état,2024-04-18 17:50:08.840380,69,13,14840,3,7,B
+Semoir,8,11,besoin de réparation,2024-02-17 17:50:08.840384,1,16,29680,18,33,B
+Semoir,11,15,besoin de maintenance,2024-03-13 17:50:08.840387,40,31,40810,13,17,B
+Charrue,10,12,besoin de maintenance,2024-03-24 17:50:08.840391,69,32,37100,12,39,C
+Tondeuse agricole,10,16,bon état,2024-04-19 17:50:08.840395,19,28,37100,11,36,B
+Moissonneuse,9,16,besoin de réparation,2024-01-31 17:50:08.840398,7,22,33390,3,19,B
+Tondeuse agricole,11,11,besoin de réparation,2024-02-25 17:50:08.840402,16,36,40810,8,32,C
+Remorque agricole,12,12,bon état,2024-04-15 17:50:08.840405,4,48,44520,6,37,C
+Tondeuse agricole,9,12,besoin de réparation,2024-02-26 17:50:08.840409,48,36,33390,7,10,C
+Tondeuse agricole,13,11,besoin de réparation,2024-02-16 17:50:08.840413,60,26,48230,7,26,C
+Tracteur,6,11,bon état,2024-04-15 17:50:08.840416,81,17,22260,2,14,B
+Charrue,7,16,besoin de réparation,2024-02-04 17:50:08.840420,46,17,25970,6,36,B
+Tondeuse agricole,7,16,besoin de maintenance,2024-03-09 17:50:08.840423,80,28,25970,12,47,B
+Moissonneuse,11,11,bon état,2024-04-21 17:50:08.840427,88,27,40810,8,25,C
+Remorque agricole,7,13,bon état,2024-04-16 17:50:08.840430,53,14,25970,15,42,B
+Tracteur,5,16,besoin de maintenance,2024-03-15 17:50:08.840435,1,16,18550,18,41,B
+Charrue,12,12,besoin de maintenance,2024-03-23 17:50:08.840439,49,39,44520,6,37,C
+Tondeuse agricole,12,11,bon état,2024-04-16 17:50:08.840442,65,48,44520,13,38,C
+Remorque agricole,4,13,bon état,2024-04-19 17:50:08.840446,74,16,14840,6,36,B
+Tracteur,4,10,bon état,2024-04-18 17:50:08.840450,63,8,14840,13,17,A
+Semoir,11,13,besoin de maintenance,2024-03-16 17:50:08.840453,51,44,40810,2,4,C
+Remorque agricole,3,13,besoin de réparation,2024-03-31 17:50:08.840457,32,11,11130,16,46,B
+Charrue,5,15,besoin de réparation,2024-04-14 17:50:08.840461,78,18,18550,18,14,B
+Charrue,11,11,bon état,2024-04-19 17:50:08.840465,9,36,40810,2,26,C
+Semoir,13,13,bon état,2024-04-27 17:50:08.840468,76,32,48230,4,27,C
+Tracteur,7,11,besoin de maintenance,2024-03-04 17:50:08.840472,21,26,25970,15,39,B
+Semoir,9,11,besoin de réparation,2024-02-09 17:50:08.840476,70,22,33390,10,35,C
+Tracteur,8,12,besoin de réparation,2024-02-20 17:50:08.840479,80,32,29680,3,13,B
+Charrue,8,11,bon état,2024-04-16 17:50:08.840483,56,20,29680,2,10,B
+Remorque agricole,9,11,besoin de maintenance,2024-03-19 17:50:08.840487,82,26,33390,8,18,C
+Charrue,8,13,besoin de maintenance,2024-03-13 17:50:08.840490,84,16,29680,12,12,B
+Remorque agricole,5,14,bon état,2024-04-29 17:50:08.840494,43,14,18550,4,34,B
+Tondeuse agricole,13,11,bon état,2024-04-23 17:50:08.840497,85,42,48230,17,13,C
+Charrue,8,14,bon état,2024-04-18 17:50:08.840501,23,23,29680,7,40,B
+Tondeuse agricole,3,13,bon état,2024-04-26 17:50:08.840504,4,6,11130,18,4,A
+Charrue,11,12,besoin de maintenance,2024-03-16 17:50:08.840508,64,44,40810,16,27,C
+Semoir,5,14,besoin de réparation,2024-04-03 17:50:08.840511,62,16,18550,14,14,B
+Tondeuse agricole,7,12,besoin de maintenance,2024-03-03 17:50:08.840515,71,17,25970,13,35,B
+Tracteur,10,11,besoin de maintenance,2024-03-31 17:50:08.840518,65,24,37100,6,13,C
+Tracteur,4,16,besoin de réparation,2024-04-14 17:50:08.840522,27,10,14840,8,3,B
+Tracteur,7,14,besoin de réparation,2024-02-04 17:50:08.840526,87,28,25970,6,32,B
+Tondeuse agricole,6,14,bon état,2024-04-17 17:50:08.840529,67,17,22260,12,15,B
+Tondeuse agricole,9,15,besoin de réparation,2024-02-16 17:50:08.840533,65,22,33390,17,25,B
+Charrue,5,13,besoin de maintenance,2024-03-29 17:50:08.840537,39,10,18550,13,33,B
+Charrue,3,12,besoin de réparation,2024-04-08 17:50:08.840540,71,6,11130,17,9,B
+Charrue,9,13,bon état,2024-04-16 17:50:08.840544,13,26,33390,15,43,B
+Moissonneuse,9,16,bon état,2024-04-21 17:50:08.840547,34,22,33390,15,44,B
+Tondeuse agricole,9,11,besoin de réparation,2024-02-16 17:50:08.840551,81,36,33390,10,37,C
+Moissonneuse,5,14,besoin de réparation,2024-04-14 17:50:08.840555,81,10,18550,4,47,B
+Remorque agricole,5,12,besoin de réparation,2024-04-11 17:50:08.840558,19,16,18550,6,41,B
+Tracteur,9,14,bon état,2024-04-28 17:50:08.840562,82,18,33390,10,37,B
+Tondeuse agricole,4,12,besoin de réparation,2024-04-15 17:50:08.840565,67,8,14840,12,11,B
+Moissonneuse,3,16,bon état,2024-04-18 17:50:08.840569,85,8,11130,15,16,A
+Remorque agricole,9,12,bon état,2024-04-28 17:50:08.840572,62,18,33390,2,15,C
+Tondeuse agricole,3,16,bon état,2024-04-15 17:50:08.840576,30,9,11130,8,14,A
+Tracteur,10,15,bon état,2024-04-17 17:50:08.840580,12,36,37100,7,36,B
+Charrue,6,13,besoin de réparation,2024-04-01 17:50:08.840584,52,20,22260,12,10,B
+Semoir,10,10,bon état,2024-04-27 17:50:08.840588,29,28,37100,13,45,C
+Charrue,5,14,besoin de réparation,2024-04-01 17:50:08.840591,5,10,18550,3,40,B
+Charrue,6,12,besoin de maintenance,2024-03-31 17:50:08.840595,64,20,22260,10,28,B
+Charrue,11,13,besoin de réparation,2024-02-03 17:50:08.840598,57,36,40810,2,28,C
+Semoir,6,14,besoin de réparation,2024-04-14 17:50:08.840602,49,12,22260,17,41,B
+Tracteur,13,13,bon état,2024-04-20 17:50:08.840606,58,26,48230,6,19,C
+Semoir,8,15,besoin de réparation,2024-02-23 17:50:08.840609,57,26,29680,13,6,B
+Semoir,13,11,besoin de réparation,2024-02-09 17:50:08.840613,1,47,48230,12,7,C
+Remorque agricole,10,16,bon état,2024-04-18 17:50:08.840617,16,32,37100,9,8,B
+Charrue,10,10,besoin de maintenance,2024-03-08 17:50:08.840620,21,40,37100,17,10,C
+Tracteur,12,14,besoin de maintenance,2024-03-29 17:50:08.840624,56,34,44520,16,44,C
