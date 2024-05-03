@@ -3,8 +3,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-import altair as alt
-
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 
@@ -23,8 +21,13 @@ st.subheader("Statistiques descriptives")
 st.write(df.describe())
 
 
+class_mapping = {'A': 1, 'B': 2, 'C': 3}
+
+# Map the values in 'class_equipement' column
+df['classes'] = df['class_equipement'].map(class_mapping)
 st.subheader("Statistiques descriptives: Affichage sous forme des graphes")
-features = df.columns[:-1].tolist()
+
+features = df.columns.tolist()
 
 cols = st.columns(len(features))
 for col, var in zip(cols, features):
@@ -50,9 +53,19 @@ plt.title('Matrice de corrélation entre les variables numériques')
 st.pyplot()
 plt.close()
 
-st.subheader("Matrice de corrélation")
-corr_matrix = numerical_features.corr()
-sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
-plt.title('Matrice de corrélation')
-st.pyplot()
-plt.close()
+
+variab = numerical_features.columns.tolist()
+
+st.subheader("Variables abbérantes")
+for var in variab:
+    Q1 = numerical_features[var].quantile(0.25)
+    Q3 = numerical_features[var].quantile(0.75)
+    IQR = Q3 - Q1
+
+    lower_bound = Q1 - 1.5 * IQR
+    upper_bound = Q3 + 1.5 * IQR
+
+    ndf = numerical_features[(numerical_features[var] >= lower_bound) & (
+        numerical_features[var] <= upper_bound)]
+
+st.table(ndf)

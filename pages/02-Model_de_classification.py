@@ -1,3 +1,5 @@
+from sklearn.preprocessing import LabelBinarizer
+from sklearn.metrics import RocCurveDisplay
 from sklearn.metrics import RocCurveDisplay, roc_curve
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
@@ -29,7 +31,7 @@ st.header("Model de classification")
 
 st.subheader("Arbre de décision: apprendre 0.8 et tester 0.2")
 x_train, x_test, y_train, y_test = train_test_split(
-    x, y, test_size=0.2, random_state=42)
+    x, y, test_size=0.4, random_state=42)
 
 decision_tree_model = DecisionTreeClassifier()
 decision_tree_model.fit(x_train, y_train)
@@ -176,4 +178,48 @@ st.pyplot(fig)
 
 
 st.header("ROC Curve")
-X_test = x_test
+
+class_id = 1
+
+label_binarizer = LabelBinarizer().fit(y_train)
+y_onehot_test = label_binarizer.transform(y_test)
+
+y_score = model.predict_proba(x_test)
+classes = ['A', 'B', 'C']
+
+for class_id, class_of_interest in enumerate(classes):
+    # Plot ROC curve for the class of interest vs the rest
+    display = RocCurveDisplay.from_predictions(
+        y_onehot_test[:, class_id],
+        y_decision_tree[:, class_id],
+        name="Decision Tree",
+        color="blue",
+        plot_chance_level=True,
+    )
+
+    display = RocCurveDisplay.from_predictions(
+        y_onehot_test[:, class_id],
+        y_logistic_regression[:, class_id],
+        name="Logistic Regression",
+        color="green",
+        plot_chance_level=True,
+        ax=display.ax_,
+    )
+
+    display = RocCurveDisplay.from_predictions(
+        y_onehot_test[:, class_id],
+        y_random_forest[:, class_id],
+        name="Random Forest",
+        color="red",
+        plot_chance_level=True,
+        ax=display.ax_,
+    )
+
+    _ = display.ax_.set(
+        xlabel="False Positive Rate",
+        ylabel="True Positive Rate",
+        title=f"ROC: Class {class_of_interest} vs the rest"
+    )
+
+    plt.legend()
+    st.pyplot(plt)
