@@ -1,3 +1,4 @@
+from sklearn.metrics import RocCurveDisplay, roc_curve
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 import streamlit as st
@@ -30,16 +31,19 @@ st.subheader("Arbre de décision: apprendre 0.8 et tester 0.2")
 x_train, x_test, y_train, y_test = train_test_split(
     x, y, test_size=0.2, random_state=42)
 
-model = DecisionTreeClassifier()
-model.fit(x_train, y_train)
+decision_tree_model = DecisionTreeClassifier()
+decision_tree_model.fit(x_train, y_train)
 
-predictions = model.predict(x_test)
+predictions = decision_tree_model.predict(x_test)
+
+y_decision_tree = decision_tree_model.predict_proba(x_test)
+
 
 st.metric(label="Accuracy", value=accuracy_score(y_test, predictions))
 st.metric(label="Validation croisé",
-          value=cross_val_score(model, x, y, cv=5).mean())
+          value=cross_val_score(decision_tree_model, x, y, cv=5).mean())
 df = pd.DataFrame(confusion_matrix(y_test, predictions),
-                  columns=model.classes_, index=model.classes_)
+                  columns=decision_tree_model.classes_, index=decision_tree_model.classes_)
 
 st.write("Matrice de confusion")
 st.scatter_chart(df)
@@ -51,9 +55,9 @@ st.write("Visualisation de l'arbre de décision")
 features = x.columns
 fig, ax = plt.figure(), plt.gca()
 decision_tree = plot_tree(
-    model,
+    decision_tree_model,
     feature_names=features,
-    class_names=model.classes_,
+    class_names=decision_tree_model.classes_,
     filled=True,
     rounded=True,
     node_ids=False,
@@ -65,8 +69,12 @@ os.remove("tree2.svg")
 
 
 st.subheader("Régression logistique")
-model = LogisticRegression(max_iter=1000, random_state=42, multi_class='ovr')
-model.fit(x_train, y_train)
+logistic_regression_model = LogisticRegression(
+    max_iter=1000, random_state=42, multi_class='ovr')
+logistic_regression_model.fit(x_train, y_train)
+
+
+y_logistic_regression = logistic_regression_model.predict_proba(x_test)
 
 
 # Replace with your actual method to get feature names if needed
@@ -79,11 +87,11 @@ fig, axes = plt.subplots(nrows=7, ncols=1, figsize=(10, 35))
 
 colors = ['lightblue', 'lightgreen', 'salmon']
 
-score = model.score(x_test, y_test)
+score = logistic_regression_model.score(x_test, y_test)
 
 st.metric(label="Accuracy", value=score)
 st.metric(label="Validation croisé",
-          value=cross_val_score(model, x, y, cv=5).mean())
+          value=cross_val_score(logistic_regression_model, x, y, cv=5).mean())
 
 
 st.write("Visualisation de l'impact des variables sur la prédiction")
@@ -97,7 +105,7 @@ for i, feature_name in enumerate(feature_names):
     x_mean[:, i] = x_range
 
     # Predict probabilities with the i-th feature varied
-    probabilities = model.predict_proba(x_mean)
+    probabilities = logistic_regression_model.predict_proba(x_mean)
 
     # Plot
     ax = axes[i]
@@ -123,9 +131,9 @@ st.pyplot(fig)
 
 
 st.write("Matrice de confusion")
-predictions = model.predict(x_test)
+predictions = logistic_regression_model.predict(x_test)
 df = pd.DataFrame(confusion_matrix(y_test, predictions),
-                  columns=model.classes_, index=model.classes_)
+                  columns=logistic_regression_model.classes_, index=logistic_regression_model.classes_)
 st.table(df)
 st.write("Matrice de confusion")
 st.scatter_chart(df)
@@ -139,6 +147,8 @@ model.fit(x_train, y_train)
 
 predictions = model.predict(x_test)
 
+y_random_forest = model.predict_proba(x_test)
+
 st.metric(label="Accuracy", value=accuracy_score(y_test, predictions))
 st.metric(label="Validation croisé",
           value=cross_val_score(model, x, y, cv=5).mean())
@@ -148,6 +158,7 @@ df = pd.DataFrame(confusion_matrix(y_test, predictions),
 
 st.write("Matrice de confusion")
 st.scatter_chart(df)
+
 
 st.write("Visualisation de l'impact des variables sur la prédiction")
 
@@ -162,3 +173,7 @@ plt.xticks(range(x_train.shape[1]), np.array(
     feature_names)[indices], rotation=90)
 plt.xlim([-1, x_train.shape[1]])
 st.pyplot(fig)
+
+
+st.header("ROC Curve")
+X_test = x_test
