@@ -30,9 +30,11 @@ st.write("""
 """)
 
 # Algorithm to be used
-st.header("Algorithme de Classification")
+st.header("Algorithme de Classification utilisé")
 st.write("""
-- Algorithme utilisé: **Algorithme d'apprentissage supervisé - Arbre de décision**
+- **Arbre de décision**
+- **Régression logistique**
+- **Forêt aléatoire** (Random Forest)
 """)
 
 # Equipment features
