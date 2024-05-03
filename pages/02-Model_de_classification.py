@@ -116,8 +116,8 @@ for i, feature_name in enumerate(feature_names):
 
     # Plotting the probabilities with labels for each class
     for j in range(probabilities.shape[1]):
-        ax.plot(x_range, probabilities[:, j], label=f'{
-                class_names[j]}', color=colors[j])
+        ax.plot(x_range, probabilities[:, j],
+                label=class_names[j], color=colors[j])
 
     ax.scatter(x_train[feature_name], y_train,
                color='black', alpha=0.5, label='Data Points')
